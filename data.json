@@ -105,11 +105,6 @@
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_5a528c03-01f5-4399-8f0d-cbcc5c305a57",
-                    "Name": "",
-                    "Description": ""
-                },
-                {
                     "ID": "wrld_b80bb17d-ef1f-4d3a-8dcc-cf8930d6df95",
                     "Name": "VRCParis",
                     "Description": ""
@@ -117,6 +112,11 @@
                 {
                     "ID": "wrld_c438719e-9be1-4c8f-b166-3a2a6fd21e98",
                     "Name": "SPring-8",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "未設定",
                     "Description": ""
                 }
             ]
@@ -191,13 +191,9 @@
         },
 
 
-        
-
-
-
 
         {
-            "Category": "展示",
+            "Category": "展示系(立体物)",
             "Worlds": [
                 {
                     "ID": "wrld_b5ed19cb-cf04-481c-833a-9833138ff668",
@@ -345,7 +341,7 @@
 
 
         {
-            "Category": "現実再現",
+            "Category": "展示系(イラスト・読み物)",
             "Worlds": [
                 {
                     "ID": "wrld_7954bf74-a725-491d-83a6-6e264f7da818",
@@ -453,112 +449,679 @@
 
 
         {
-            "Category": "現実再現",
+            "Category": "エモワールド",
             "Worlds": [
                 {
-                    "ID": "wrld_7954bf74-a725-491d-83a6-6e264f7da818",
+                    "ID": "wrld_",
                     "Name": "",
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_98422193-2ddd-4af4-bd97-ab5609a46785",
+                    "ID": "wrld_",
                     "Name": "",
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_e9093447-5e69-4eec-8262-358a4ad72db9",
+                    "ID": "wrld_",
                     "Name": "",
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_7f2a5d7f-c4cc-4f68-b290-4a985a210a96",
+                    "ID": "wrld_",
                     "Name": "",
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_3b0014d7-b82f-4249-bfc4-64f65815c4f3",
+                    "ID": "wrld_",
                     "Name": "",
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_178fa68a-067b-4176-9cdf-84b71065eb3e",
+                    "ID": "wrld_",
                     "Name": "",
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_bfe99640-0b12-44bd-8b25-458b4b0bf9aa",
+                    "ID": "wrld_",
                     "Name": "",
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_62d9de2d-927a-4c34-95dc-af432d433f3e",
+                    "ID": "wrld_",
                     "Name": "",
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_2ad5bb30-adf7-4de1-ba50-ae9b6b4689fe",
+                    "ID": "wrld_",
                     "Name": "",
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_93b3d0d4-dab6-4d56-b8b8-e1f6ef67a453",
+                    "ID": "wrld_",
                     "Name": "",
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_1442a6bf-d510-4fc6-9958-fc1530915d94",
+                    "ID": "wrld_",
                     "Name": "",
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_21bb75ba-60b6-4640-b4ca-0473f093c4db",
+                    "ID": "wrld_",
                     "Name": "",
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_d1d2318c-5144-4902-a774-876f45c06804",
+                    "ID": "wrld_",
                     "Name": "",
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_14750dd6-26a1-4edb-ae67-cac5bcd9ed6a",
+                    "ID": "wrld_",
                     "Name": "",
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_ff8b4a6e-4268-4783-bc16-3103067a4be6",
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                }
+            ]
+        },
+
+
+
+        {
+            "Category": "ゲームワールド",
+            "Worlds": [
+                {
+                    "ID": "wrld_",
                     "Name": "",
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_137d1eb3-0f0f-49b5-9c56-4a3848e32838",
+                    "ID": "wrld_",
                     "Name": "",
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_3c3ccab6-8a26-44ef-979f-af8037ebd7a2",
+                    "ID": "wrld_",
                     "Name": "",
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_5a528c03-01f5-4399-8f0d-cbcc5c305a57",
+                    "ID": "wrld_",
                     "Name": "",
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_34fe1b38-8871-447c-8a8b-e957b492881a",
+                    "ID": "wrld_",
                     "Name": "",
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_d0566e16-20a8-4063-8b1b-e181371f751d",
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                }
+            ]
+        },
+
+        
+
+        {
+            "Category": "ストーリー",
+            "Worlds": [
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                }
+            ]
+        },
+
+
+
+        {
+            "Category": "オープンワールド",
+            "Worlds": [
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                }
+            ]
+        },
+
+
+
+        {
+            "Category": "チルワールド",
+            "Worlds": [
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                }
+            ]
+        },
+
+
+
+        {
+            "Category": "ゲーム",
+            "Worlds": [
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                }
+            ]
+        },
+
+
+
+        {
+            "Category": "ホラー",
+            "Worlds": [
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                }
+            ]
+        },
+
+
+
+        {
+            "Category": "交流・ポータル",
+            "Worlds": [
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                }
+            ]
+        },
+
+
+
+
+        {
+            "Category": "未設定",
+            "Worlds": [
+                {
+                    "ID": "wrld_",
                     "Name": "",
                     "Description": ""
                 }
             ]
         }
-
-
-
     ]
 }
