@@ -11,22 +11,16 @@
                     "Description": "コメントを記入してください"
                 },
                 {
-                    "ID": "wrld_54ade570-dc66-4727-a168-08cfa4227d2e",
-                    "Name": "PolygonDungeon",
-                    "RecommendedCapacity": 8,
-                    "Capacity": 16,
-                    "Description": "アバターのポリゴン数で出題されるお題を解いていくゲームワールドです。いろんなアバター使ったりして遊んでね！",
-                    "Platform": {
-                        "PC": true,
-                        "Android": false
-                    }
+                    "ID": "wrld_4a39e441-5186-4573-8784-a65b6a726340",
+                    "Name": "CAVE OKINAWA",
+                    "Description": "コメントを記入してください"
                 },
                 {
-                    "ID": "wrld_c87d9e7a-d46a-4ca4-9077-a6322ac0f7e7",
-                    "Name": "Smash Contest スマッシュコンテスト",
+                    "ID": "wrld_b49c6ee2-c2e3-4dc6-bf09-3aaea66208b1",
+                    "Name": "ンョ゛ハー ゛（ショッパーズ長浜店）",
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
-                    "Description": "サンドバッグを殴って蹴ってHome Run！かっこよく飛ばせたら＃SMACONでシェア！Made with Udon",
+                    "Description": "コメントを記入してください",
                     "Platform": {
                         "PC": true,
                         "Android": true
