@@ -3,14 +3,14 @@
     "ShowPrivateWorld": true,
     "Categorys": [
         {
-            "Category": "ゲーム 少人数",
+            "Category": "現実再現(フォトグラメトリ)",
             "Worlds": [
                 {
-                    "ID": "wrld_73e48317-ae3a-463a-9ae2-1fde4c810ad1",
-                    "Name": "MaterialSniperǃ",
-                    "RecommendedCapacity": 16,
-                    "Capacity": 32,
-                    "Description": "MaterialSniperǃ shooting game",
+                    "ID": "wrld_8551a443-77a6-4140-bd3e-a78a36de73b6",
+                    "Name": "友ヶ島第3砲台跡",
+                    "RecommendedCapacity": 20,
+                    "Capacity": 40,
+                    "Description": "コメントを記入してください",
                     "Platform": {
                         "PC": true,
                         "Android": false
