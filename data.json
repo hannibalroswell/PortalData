@@ -11,6 +11,7 @@
                     "RecommendedCapacity": 20,
                     "Capacity": 40,
                     "Description": "コメントを記入してください",
+                    "ReleaseStatus": "public",
                     "Platform": {
                         "PC": true,
                         "Android": false
@@ -19,7 +20,13 @@
                 {
                     "ID": "wrld_54ade570-dc66-4727-a168-08cfa4227d2e",
                     "Name": "PolygonDungeon",
-                    "Description": "アバターのポリゴン数で出題されるお題を解いていくゲームワールドです。いろんなアバター使ったりして遊んでね！"
+                    "RecommendedCapacity": 8,
+                    "Capacity": 16,
+                    "Description": "アバターのポリゴン数で出題されるお題を解いていくゲームワールドです。いろんなアバター使ったりして遊んでね！",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
                 },
                 {
                     "ID": "wrld_c87d9e7a-d46a-4ca4-9077-a6322ac0f7e7",
