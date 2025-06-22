@@ -781,7 +781,7 @@
 
 
         {
-            "Category": "チルワールド",
+            "Category": "チルワールド(現実的)",
             "Worlds": [
                 {
                     "ID": "wrld_",
@@ -864,7 +864,7 @@
 
 
         {
-            "Category": "ゲーム",
+            "Category": "チルワールド(非現実的)",
             "Worlds": [
                 {
                     "ID": "wrld_",
