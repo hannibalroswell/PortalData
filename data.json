@@ -22,47 +22,47 @@
                 {
                     "ID": "wrld_1247aa9a-a86a-42ff-b1a4-7a8055424a50",
                     "Name": "Yokosuka Museum of Art -横須賀美術館-",
-                    "Description": ""
+                    "Description": "神奈川県横須賀市にある美術館の再現ワールド。2007年4月28日に開館。綺麗なライティングが見どころ"
                 },
                 {
                     "ID": "wrld_6e5a0cf2-9ea4-4ccd-a165-c4b53d2945d1",
                     "Name": "Inokashira-kōen Station（井の頭公園駅）",
-                    "Description": ""
+                    "Description": "東京都三鷹市井の頭三丁目、京王電鉄井の頭線の再現ワールド。1から作られたモデルがとても再現度が高く人気"
                 },
                 {
                     "ID": "wrld_c82a5c14-97a5-4782-a034-d897d2d943a2",
                     "Name": "VRC 新宿駅 Shinjuku Station",
-                    "Description": ""
+                    "Description": "東京都新宿区・渋谷区にある駅。1日あたりの平均乗降者数は約300万人で、世界最多の駅利用者数としてギネス世界記録に認定されている"
                 },
                 {
                     "ID": "wrld_3380ca07-2b6f-430e-a9b4-e3ee72f175af",
                     "Name": "Yamanote Line E235",
-                    "Description": ""
+                    "Description": "東京23区内を走る山手線のワールド。車内アナウンスあり。"
                 },
                 {
                     "ID": "wrld_6e546a2c-9633-4ddc-814a-5d225fda2e16",
                     "Name": "バーチャル北大 -Virtual Hokudai-",
-                    "Description": ""
+                    "Description": "北海道大学の再現ワールド。一部構内もフォトグラメトリで再現している。"
                 },
                 {
                     "ID": "wrld_48042591-9c10-4df0-b66d-254db09fe6b0",
                     "Name": "【JP】Virtual Dotonbori in OSAKA",
-                    "Description": ""
+                    "Description": "VR上の道頓堀(大阪のワールド)"
                 },
                 {
                     "ID": "wrld_a26d13d0-34d4-4bff-b0ca-4f56667bb84c",
                     "Name": "VirtualOkinawa_Kokusai-dori_［JP］［EN］",
-                    "Description": ""
+                    "Description": "VR上の国際通り(沖縄)のワールド。"
                 },
                 {
                     "ID": "wrld_4f988561-b2a7-47f6-8028-a0c9e617574f",
                     "Name": "VirtualOkinawa_ShurijoCastle_［JP］［EN］",
-                    "Description": ""
+                    "Description": "VR上の首里城(沖縄)のワールド。"
                 },
                 {
                     "ID": "wrld_a7d8b50b-58b3-409f-9a78-02a535795e29",
                     "Name": "Virtual Kawaramachi",
-                    "Description": ""
+                    "Description": "VR上の河原町"
                 },
                 {
                     "ID": "wrld_1643d0ee-76a7-491a-a5f0-0064c5906b61",
@@ -77,37 +77,37 @@
                 {
                     "ID": "wrld_3d9894b0-ed86-48ad-a569-5c47ba5634be",
                     "Name": "VRCヨドバツカメラ",
-                    "Description": ""
+                    "Description": "ヨドバシカメラ再現ワールド。店内BGMあり。"
                 },
                 {
                     "ID": "wrld_6aa7b2e5-90e5-4ca8-80c4-30fc5534b1b4",
                     "Name": "バーチャルスシロー（非公式）",
-                    "Description": ""
+                    "Description": "スシロー再現ワールド。お寿司のモデルもあり、店内再現度が高い。"
                 },
                 {
                     "ID": "wrld_60e4d706-0768-43e9-b180-e636bbe70e33",
                     "Name": "バーチャル山岡家（非公式）",
-                    "Description": ""
+                    "Description": "山岡家の再現ワールド。店内再現度が高い。"
                 },
                 {
                     "ID": "wrld_fb3a4473-b57a-461b-a584-bed7181c61da",
                     "Name": "バーチャルすき家（非公式）",
-                    "Description": ""
+                    "Description": "すき家の再現ワールド。店内再現度が高い。"
                 },
                 {
                     "ID": "wrld_41c7fd7a-4733-46f1-8402-b3fd6d6f1bdd",
                     "Name": "セイコマート北海道",
-                    "Description": ""
+                    "Description": "北海道がメインのコンビニ、セイコーマートの再現ワールド。各種説明あり。"
                 },
                 {
                     "ID": "wrld_aa4e7dc7-6e9e-47b2-bf93-e3be9520075a",
                     "Name": "VRC-TV mast",
-                    "Description": ""
+                    "Description": "映画「FALL/フォール」の再現ワールドで、ほぼ原寸大の628m近くあり修行用ワールド。テレビ塔をひたすら登ろう。"
                 },
                 {
                     "ID": "wrld_b80bb17d-ef1f-4d3a-8dcc-cf8930d6df95",
                     "Name": "VRCParis",
-                    "Description": ""
+                    "Description": "フランスのパリにあるエッフェル塔の再現ワールド"
                 },
                 {
                     "ID": "wrld_c438719e-9be1-4c8f-b166-3a2a6fd21e98",
@@ -130,32 +130,32 @@
                 {
                     "ID": "wrld_8551a443-77a6-4140-bd3e-a78a36de73b6",
                     "Name": "友ヶ島第3砲台跡",
-                    "Description": "コメントを記入してください"
+                    "Description": "和歌山県にある離島の再現ワールド。アニメ「サマータイムレンダ」の舞台にもなっている旧日本軍の基地。"
                 },
                 {
                     "ID": "wrld_4a39e441-5186-4573-8784-a65b6a726340",
                     "Name": "CAVE OKINAWA",
-                    "Description": "コメントを記入してください"
+                    "Description": "沖縄県の洞窟の再現ワールド。"
                 },
                 {
                     "ID": "wrld_b49c6ee2-c2e3-4dc6-bf09-3aaea66208b1",
                     "Name": "Little World - Tokogrammetry Gallery",
-                    "Description": "wrld_99438e12-d8c6-4e61-9594-65a9162d95f6"
+                    "Description": ""
                 },
                 {
                     "ID": "wrld_1c294e10-6869-4e51-9629-1d3de358765b",
                     "Name": "Tokushima Udatsu",
-                    "Description": ""
+                    "Description": "徳島県の再現ワールド。"
                 },
                 {
                     "ID": "wrld_c1824301-1b7a-4a6d-ae69-de48c1bae974",
                     "Name": "Kyoto Kiyomizu-dera Sando",
-                    "Description": ""
+                    "Description": "清水坂(京都)の再現ワールド。クオリティが高く街並みの雰囲気をVR上で楽しめる。"
                 },
                 {
                     "ID": "wrld_96869b23-1484-4a40-a17d-b7d29c0ee962",
                     "Name": "深夜の京都散歩 ⁄ Kyoto Midnight Walk",
-                    "Description": ""
+                    "Description": "清水坂(京都)再現の夜間Ver"
                 },
                 {
                     "ID": "wrld_c50081db-b9c1-47b3-b428-8230c252994c",
@@ -165,7 +165,7 @@
                 {
                     "ID": "wrld_cf064f3b-9c88-40cb-a4e6-59652d5f9d4e",
                     "Name": "鹿沼公園 D52 235 -JNR Class D52-",
-                    "Description": ""
+                    "Description": "公園に展示されている電車を見て楽しむことができる"
                 },
                 {
                     "ID": "wrld_847c1fec-5fa2-4cc5-a109-99c9152ed187",
@@ -180,12 +180,12 @@
                 {
                     "ID": "wrld_b88639b5-f224-41e1-bb50-64493953c7f8",
                     "Name": "VRmeruhenmura",
-                    "Description": ""
+                    "Description": "メルヘン村。"
                 },
                 {
                     "ID": "wrld_3f454b44-6c61-484d-bd5b-0a5abfd5f3f2",
                     "Name": "フォトグラ携帯ゲーム機展示室",
-                    "Description": ""
+                    "Description": "フォトグラメトリで再現されたゲーム機のモデルがあり、説明もあるため知識が無くても楽しむことができる。"
                 }
             ]
         },
@@ -198,27 +198,27 @@
                 {
                     "ID": "wrld_b5ed19cb-cf04-481c-833a-9833138ff668",
                     "Name": "VR宇宙博物館 コスモリア",
-                    "Description": ""
+                    "Description": "宇宙と生命の歴史解説と、ロケットや人工衛星の1/1モデルを見ることができるワールド。VRChat屈指の名ワールド。"
                 },
                 {
                     "ID": "wrld_942421ba-becf-4907-b56f-47070cc816cc",
                     "Name": "1％の仮想",
-                    "Description": ""
+                    "Description": "プロジェクトサマーフレア作者制作の展示ワールド。"
                 },
                 {
                     "ID": "wrld_b526c3e0-7c32-4774-931e-5dcbdd125794",
                     "Name": "Shader Fes 2021",
-                    "Description": ""
+                    "Description": "シェーダーの様々な表現について展示されているワールド。"
                 },
                 {
                     "ID": "wrld_867a7613-893e-40c1-9b19-4527d74a0ff5",
                     "Name": "中国ミーム博物館 日本語版",
-                    "Description": ""
+                    "Description": "中国で人気があるミームについて解説しているワールド。日本でも馴染みのあるものも多数"
                 },
                 {
                     "ID": "wrld_be77c516-8d56-4ae2-8729-f6399bbd8e43",
                     "Name": "Korean Study Museum JPN",
-                    "Description": ""
+                    "Description": "日本語話者が韓国語を学べるワールド。レベル別に分かれているため初心者でも安心できる。"
                 },
                 {
                     "ID": "wrld_2718702a-7d5c-4a90-b1f5-5f5253866ca9",
@@ -233,7 +233,7 @@
                 {
                     "ID": "wrld_eaa15880-e198-40d5-a7d2-41dfa3146d8f",
                     "Name": "完成しなかったものたち展",
-                    "Description": ""
+                    "Description": "完成しなかったワールド等の紹介がされているワールド。クリエイターとしての心構えを学べる。"
                 },
                 {
                     "ID": "wrld_4892f3f7-2ba0-47af-aad3-2e7a1b63d0e6",
@@ -248,12 +248,12 @@
                 {
                     "ID": "wrld_3987e705-2587-406c-9703-4602dc400035",
                     "Name": "NISSAN Heritage Cars ＆ Safe Driving Studio",
-                    "Description": ""
+                    "Description": "日産の自動車モデルが展示されているワールド。"
                 },
                 {
                     "ID": "wrld_99924ad6-6bb9-479c-8835-282f0a634f60",
                     "Name": "［JP］NDC Library",
-                    "Description": ""
+                    "Description": "青空文庫の本を実際に読むことができるワールド。"
                 },
                 {
                     "ID": "wrld_32ea3f32-46f9-4c8f-ad67-c43945cab8fc",
