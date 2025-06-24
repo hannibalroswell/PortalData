@@ -693,9 +693,9 @@
                     "Description": ""
                 },
                 {
-                    "ID": "",
-                    "Name": "",
-                    "Description": ""
+                    "ID": "wrld_689e7533-f2e4-4f7f-92ca-868a96a357a2",
+                    "Name": "Charlotte's Raindrop Island 天気雨と夕焼けの港町",
+                    "Description": "エモ移動"
                 },
                 {
                     "ID": "",
@@ -763,63 +763,63 @@
                 {
                     "ID": "wrld_4e8f3e44-dca9-4ae7-9580-954bb4b2cbc4",
                     "Name": "Amebient",
-                    "Description": ""
+                    "Description": "海に沈む廃墟の中で、雨と色々なアイテムを用いて音楽を奏でるワールド。"
                 },
                 {
                     "ID": "wrld_262729a1-1eca-4f4a-b9ed-d00ffa663d6b",
                     "Name": "WORLD OF THE SOUL",
-                    "Description": ""
+                    "Description": "ダークソウルオマージュワールド。本家同様高難易度。"
                 },
                 {
                     "ID": "wrld_ba265839-272c-40c9-bed5-247b7ec0bb52",
                     "Name": "UDON-SABER",
-                    "Description": ""
+                    "Description": "ビート〇イバーのパクりワールド。更新頻度高。軽量アバター推奨。"
                 },
                 {
                     "ID": "wrld_fba7ee36-9fb8-4546-be26-5105442bd029",
                     "Name": "USEMONO -Seekers Inc․-",
-                    "Description": ""
+                    "Description": "一軒家で失くしたものを探すワールド。難易度が選べ、制限時間5分で1プレイ。"
                 },
                 {
                     "ID": "wrld_9d74f118-b1ae-4b2d-956e-e1ea32ca44e4",
                     "Name": "ユーロアの隠れ家 Euroa's Hideout",
-                    "Description": ""
+                    "Description": "様々なゲームが遊べるゲームワールド"
                 },
                 {
                     "ID": "wrld_40f96cef-3477-46b5-955a-ae03bc46d09b",
                     "Name": "Prize Lounge",
-                    "Description": ""
+                    "Description": "リアルな挙動のクレーンゲームが遊べるワールド。"
                 },
 
                 {
                     "ID": "wrld_14c77673-f47f-4875-8386-8e7fccf2da2a",
                     "Name": "Aoinu's Shooting Lab˸ CLAY SHOOTING",
-                    "Description": ""
+                    "Description": "クレー射撃が楽しめるワールド。"
                 },
                 {
                     "ID": "wrld_a0423f4f-d9a8-42d9-bfcf-323eca2ec8a3",
                     "Name": "Magical Cursed Land",
-                    "Description": ""
+                    "Description": "大型ゲームワールド。ジョブを選び、パーティを組んでモンスターを倒そう！"
                 },
                 {
                     "ID": "wrld_ec3d34a5-2985-47cc-83b7-8beca536fe3e",
                     "Name": "Zombie Bunker",
-                    "Description": ""
+                    "Description": "銃の挙動がリアルなゾンビを倒すワールド。"
                 },
                 {
                     "ID": "wrld_8e909dbd-c6a7-4c64-af16-818161a0eceb",
                     "Name": "VRbomber",
-                    "Description": ""
+                    "Description": "ボン〇ーマンライクなゲームワールド。"
                 },
                 {
                     "ID": "wrld_7187b577-bd38-43b6-a699-d39889b1b97f",
                     "Name": "Pap's Shooting Range",
-                    "Description": ""
+                    "Description": "長距離射撃が楽しめるワールド。"
                 },
                 {
                     "ID": "wrld_ba9057f1-2a10-440d-aa35-79239cf6f71f",
                     "Name": "DesertBandit",
-                    "Description": ""
+                    "Description": "実質アーマードコア。"
                 },
                 {
                     "ID": "wrld_e823b598-96cd-4b51-a7af-98cb8ca2f46f",
@@ -829,12 +829,12 @@
                 {
                     "ID": "wrld_0ae33725-8c02-453e-966c-a6457ba8d003",
                     "Name": "元彼の家 Ex's house",
-                    "Description": ""
+                    "Description": "元カレの家を壊そう！"
                 },
                 {
                     "ID": "wrld_cacfe6b1-b2c1-40d0-8566-8edd4d96e9fd",
                     "Name": "Udon Bird Sanctuary",
-                    "Description": ""
+                    "Description": "鳥かわいい"
                 },
                 {
                     "ID": "wrld_e070034f-da8c-4b00-b0f7-1fc66cf85d02",
@@ -886,7 +886,7 @@
                 {
                     "ID": "wrld_236bb7cd-dca2-44a2-9542-3b965e15d37d",
                     "Name": "RESONARK 4 ELVES Pt․1",
-                    "Description": ""
+                    "Description": "音ゲーワールド。権利的にもクリアなものしかなく安心してプレイできる。"
                 },
 
                 {
@@ -898,37 +898,37 @@
                 {
                     "ID": "wrld_a61cdabe-1218-4287-9ffc-2a4d1414e5bd",
                     "Name": "Terrors of Nowhere",
-                    "Description": ""
+                    "Description": "超人気鬼ごっこワールド。"
                 },
                 {
                     "ID": "wrld_3c3ccab6-8a26-44ef-979f-af8037ebd7a2",
                     "Name": "VERTEX˸ VRCBattleRoyale",
-                    "Description": ""
+                    "Description": "VRChatでPUBGがプレイできるワールド。"
                 },
                 {
                     "ID": "wrld_6aa4eb04-0c21-405c-ac1e-5cefff8b2fff",
                     "Name": "VRChat BattleField",
-                    "Description": ""
+                    "Description": "多人数で2チームに分かれて対戦できるFPSワールド。現在開発中。"
                 },
                 {
                     "ID": "wrld_00352602-587d-4bde-a4b4-8b6227e7cc53",
                     "Name": "Pressure Wash Simulator",
-                    "Description": ""
+                    "Description": "高圧洗浄機で自動車を綺麗にお掃除できるワールド。"
                 },
                 {
                     "ID": "wrld_f557959f-6fde-4164-be36-31f1d40bb9a5",
                     "Name": "Zombie Survival",
-                    "Description": ""
+                    "Description": "多人数で協力してゾンビを倒していくワールド。"
                 },
                 {
                     "ID": "wrld_c077aa49-4820-472d-ace5-c11368f1e3f4",
                     "Name": "Project Aincrad",
-                    "Description": ""
+                    "Description": "ソードアートオンライン再現ワールド。作中と同じく手でメニュー操作ができる。"
                 },
                 {
                     "ID": "wrld_1c421ebe-2c92-479f-8242-26d3aceb13ba",
                     "Name": "CoinAmusement by UdonChips",
-                    "Description": ""
+                    "Description": "UdonChipsを使用してゲームを遊ぶことができるワールド。"
                 },
                 {
                     "ID": "wrld_232a7b05-3300-49cb-a2ac-a5fd196550fb",
@@ -938,17 +938,17 @@
                 {
                     "ID": "wrld_1ec4d00b-9598-4297-af3d-11236659b67a",
                     "Name": "Yamaha Motor - VR TRAIL",
-                    "Description": ""
+                    "Description": "バイクを製造しているヤマハ発動機公式ワールド。電動バイクで山を駆けることができる。"
                 },
                 {
                     "ID": "wrld_056ab5d5-e054-4ea7-ad85-dedc734ed7b5",
                     "Name": "VRC BOXING",
-                    "Description": ""
+                    "Description": "ボクシングで対戦できるワールド。いくつかルールがあり選ぶことができる。"
                 },
                 {
                     "ID": "wrld_99123966-6b37-46d9-835c-25c2f6e0706c",
                     "Name": "VRC Volleyball",
-                    "Description": ""
+                    "Description": "バレーボールをプレイできるワールド。"
                 },
                 {
                     "ID": "wrld_fa594071-2cbd-4128-950f-08085f1284c8",
@@ -958,24 +958,23 @@
                 {
                     "ID": "wrld_2de8eba1-09a7-441f-a544-58bf783f5195",
                     "Name": "串カツ神経衰弱",
-                    "Description": ""
+                    "Description": "串カツの絵で神経衰弱ができる。同じ串カツでも絵柄が違う(?)楽しめるクソゲー。"
                 },
                 {
                     "ID": "wrld_52330ddb-312f-4813-9670-a468f0fe4062",
                     "Name": "Wii Sports",
-                    "Description": ""
+                    "Description": "Wii Sp〇rtsじゃん！"
                 },
                 {
                     "ID": "wrld_d0a68029-96da-4e9f-aa0a-e4f8c6f5d6d9",
                     "Name": "Steel 'n' Gold",
-                    "Description": ""
+                    "Description": "VRChat公式ゲームワールド。攻守2チームに分かれて対戦ができる。"
                 },
                 {
                     "ID": "wrld_0c072b46-e341-48fd-a4d4-b3a091ee5437",
                     "Name": "CQB Training ｜ Room Clearing",
                     "Description": ""
                 },
-
                 {
                     "ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
                     "Name": "Test Pilots",
@@ -999,17 +998,17 @@
                 {
                     "ID": "wrld_0cc82f15-1d80-4a92-97a3-ffe1600b2766",
                     "Name": "TOKYO MARUI VRC Survival Game Field ＂CONQUEST-DAY＂",
-                    "Description": ""
+                    "Description": "モデルガン製造の東京マルイ公式ワールド。サバイバルゲームができる。"
                 },
                 {
                     "ID": "wrld_f7a25364-c6a5-4b12-af64-c67bd95ef960",
                     "Name": "DrivingCity at Night",
-                    "Description": ""
+                    "Description": "夜の街中を車でドライブすることができる。"
                 },
                 {
                     "ID": "wrld_d0bc473d-ffbb-4b16-b2d0-019e6e99dfbe",
                     "Name": "東京～お台場 ドライブ Tokyo Diba Drive",
-                    "Description": ""
+                    "Description": "昼の東京をドライブすることができる。"
                 },
                 {
                     "ID": "wrld_c60988b7-20fb-4fc1-81fc-7431fbf27ae4",
@@ -1024,17 +1023,17 @@
                 {
                     "ID": "wrld_2ad5bb30-adf7-4de1-ba50-ae9b6b4689fe",
                     "Name": "Jetski Rush",
-                    "Description": ""
+                    "Description": "水上バイクでレースができるワールド。"
                 },
                 {
                     "ID": "wrld_f60cbe28-18d6-42cd-a53c-56d53936f437",
                     "Name": "VRC OF THE DEAD˸SURVIVE",
-                    "Description": ""
+                    "Description": "迫りくるゾンビを倒してマップから脱出するゲーム。"
                 },
                 {
                     "ID": "wrld_38c1cdc9-10e7-4b49-adee-a63a9ea9aaf2",
                     "Name": "Nom Nom Hole",
-                    "Description": ""
+                    "Description": "穴を大きくしてモノを落としていくワールド。"
                 },
                 {
                     "ID": "wrld_09e6752e-f412-4794-8c07-92d65af0f759",
@@ -1049,22 +1048,22 @@
                 {
                     "ID": "wrld_edfe25fd-c303-4591-b96f-5c7205ad66a2",
                     "Name": "一致するまで寝れまテン",
-                    "Description": ""
+                    "Description": "お題を受け取って全員で答えを書き、一致するまで粘るワールド。"
                 },
                 {
                     "ID": "wrld_358c8602-a6fd-430c-9d56-b9c1e90971aa",
                     "Name": "リアルタイム農業ワールド",
-                    "Description": ""
+                    "Description": "ニンジンを植えてひたすら成長を待つワールド。"
                 },
                 {
                     "ID": "wrld_a1a1bae9-0003-429c-a5eb-ded571193b82",
                     "Name": "Break the car",
-                    "Description": ""
+                    "Description": "車を食わせるワールド。ストレス発散向け。"
                 },
                 {
                     "ID": "wrld_ea130b45-a7bb-48d9-be16-3cced05cc794",
                     "Name": "遠鯨埠頭 onkei wharf",
-                    "Description": ""
+                    "Description": "お魚を海で釣ることができる。"
                 },
                 {
                     "ID": "wrld_8a9f36da-02e4-4f2e-a5d9-423aeca2071c",
@@ -1111,9 +1110,9 @@
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_",
+                    "ID": "wrld_aa762efb-17b3-4302-8f41-09c4db2489ed",
                     "Name": "PROJECT˸ SUMMER FLARE",
-                    "Description": "wrld_aa762efb-17b3-4302-8f41-09c4db2489ed"
+                    "Description": "VRChat屈指の名ワールド。ローポリながら作りこまれた世界を楽しもう。所要時間；2～3時間"
                 },
                 {
                     "ID": "wrld_cbc3cbab-a0c0-4378-9d11-4fc5ebe98474",
@@ -1211,6 +1210,11 @@
                 {
                     "ID": "wrld_424c75c2-533c-4922-be0d-cd13c6aa6d6f",
                     "Name": "Antiheat's Apartment",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_d39b36c7-e6aa-4b88-8c7a-b4464c8bc0b6",
+                    "Name": "City of Liliya",
                     "Description": ""
                 },
                 {
@@ -1319,16 +1323,8 @@
                     "Name": "Trio Village ~Trioの村~",
                     "Description": ""
                 },
-                {
-                    "ID": "wrld_689e7533-f2e4-4f7f-92ca-868a96a357a2",
-                    "Name": "Charlotte's Raindrop Island 天気雨と夕焼けの港町",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_d39b36c7-e6aa-4b88-8c7a-b4464c8bc0b6",
-                    "Name": "City of Liliya",
-                    "Description": ""
-                },
+
+
                 {
                     "ID": "wrld_2907c140-36eb-48b6-ac87-b07b69ae7151",
                     "Name": "- Camp Lakewood -",
