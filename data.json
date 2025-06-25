@@ -438,18 +438,23 @@
             "Category": "エモワールド",
             "Worlds": [
                 {
+                    "ID": "wrld_ee5541a9-0788-43e1-a86d-bad30e218246",
+                    "Name": "開けない夜ーAn unilluminated night",
+                    "Description": "夜の屋上で夜空が見れるワールド。パーティクルと音楽の組み合わせがとても綺麗で◎"
+                },
+                {
+                    "ID": "wrld_48f70688-a7a8-4252-b695-e891f845a129",
+                    "Name": "時の残響－Echoes of Time",
+                    "Description": "どこかの廃墟のワールド。水や揺れるカーテンの表現がとても◎"
+                },
+                {
                     "ID": "wrld_a7464c28-ebaf-4463-994e-4e13f6144a0f",
                     "Name": "消えたあなたと‚ 止まっている春が-Spring and you",
-                    "Description": ""
+                    "Description": "部屋の中央にキャンバスだけが残されたワールド。カーテンからの風の表現がとても綺麗。"
                 },
                 {
                     "ID": "wrld_302d5b48-810d-4d65-bb08-8dfd629cba56",
                     "Name": "夏宙の休息地 -Summer Starrysky Rest-",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_5ee38798-2943-491a-aa30-a145bbe44b42",
-                    "Name": "ハジマリと福音の先へ -After the Origins and the Bell-",
                     "Description": ""
                 },
                 {
@@ -458,30 +463,28 @@
                     "Description": ""
                 },
                 {
+                    "ID": "wrld_5ee38798-2943-491a-aa30-a145bbe44b42",
+                    "Name": "ハジマリと福音の先へ -After the Origins and the Bell-",
+                    "Description": "入口のカギで壁を壊してからが本番。"
+                },
+
+                {
                     "ID": "wrld_269fa2ee-33e6-4505-b44f-fd1b3e4b6262",
                     "Name": "小雨のあの日-A drizzly day",
-                    "Description": ""
+                    "Description": "雨が降る、どこかの町のワールド。夕日と雨のコントラストが◎"
                 },
-                {
-                    "ID": "wrld_ee5541a9-0788-43e1-a86d-bad30e218246",
-                    "Name": "開けない夜ーAn unilluminated night",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_48f70688-a7a8-4252-b695-e891f845a129",
-                    "Name": "時の残響－Echoes of Time",
-                    "Description": ""
-                },
+
                 {
                     "ID": "wrld_af4e67ae-bb39-48c1-acc9-ab98cd59c5d5",
                     "Name": "神隠シンドローム -SpiritedAway Syndrome-",
-                    "Description": ""
+                    "Description": "表の世界と、どこかをインタラクトすると行くことのできる裏の世界の2つが存在するワールド。表裏の表現も素晴らしい。"
                 },
                 {
-                    "ID": "wrld_aaeef9ec-c42e-4b95-870d-22bbc11a97aa",
-                    "Name": "超懐郷の秋澄む処 -Nostalgic Autumn Riverside 2024-",
-                    "Description": ""
+                    "ID": "wrld_b5c47aab-a6ff-4240-8033-2995edb00eb6",
+                    "Name": "Aquarius",
+                    "Description": "水族館のチルワールド。様々な海洋生物を見ることができる。"
                 },
+
 
                 {
                     "ID": "wrld_",
@@ -632,11 +635,7 @@
                     "Name": "はいよるこんとん",
                     "Description": ""
                 },
-                {
-                    "ID": "wrld_b5c47aab-a6ff-4240-8033-2995edb00eb6",
-                    "Name": "Aquarius",
-                    "Description": ""
-                },
+
                 {
                     "ID": "wrld_1d6adcaa-f469-4e46-856f-547eb46a799a",
                     "Name": "Pillars",
@@ -1100,44 +1099,49 @@
             "Category": "ストーリー",
             "Worlds": [
                 {
+                    "ID": "wrld_aa762efb-17b3-4302-8f41-09c4db2489ed",
+                    "Name": "PROJECT˸ SUMMER FLARE",
+                    "Description": "VRChat屈指の名ワールド。ローポリながら作りこまれた世界を楽しもう。所要時間：2～3時間。"
+                },
+                {
                     "ID": "wrld_df15c8a3-a14e-413f-a9ca-3d922d03f300",
                     "Name": "ASTEROID FIELD․․․",
-                    "Description": ""
+                    "Description": "未知の星系探索で、消息を絶ったチームの後任としてストーリーが進んでいきます。全編英語。所要時間：1時間。"
+                },
+                {
+                    "ID": "wrld_ca2c5edc-b44b-4c68-863a-9a94b04889d5",
+                    "Name": "District Roboto",
+                    "Description": "ロボットの世界を体験できるワールド。"
                 },
                 {
                     "ID": "wrld_ff414a30-31e3-44bb-9c8e-3d721e895b0b",
                     "Name": "Complex 7",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_aa762efb-17b3-4302-8f41-09c4db2489ed",
-                    "Name": "PROJECT˸ SUMMER FLARE",
-                    "Description": "VRChat屈指の名ワールド。ローポリながら作りこまれた世界を楽しもう。所要時間；2～3時間"
+                    "Description": "ロボットの世界を体験できるワールド。「District Roboto」作者の続編。"
                 },
                 {
                     "ID": "wrld_cbc3cbab-a0c0-4378-9d11-4fc5ebe98474",
                     "Name": "IMR NightmareWars",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_c3e69a3a-508d-48e0-9289-0472b898804c",
-                    "Name": "Magic Heist",
-                    "Description": ""
+                    "Description": "銃を使用して敵を倒していくストーリー形式のワールド。所要時間：約1時間。"
                 },
                 {
                     "ID": "wrld_73068cca-e0d8-4b91-98f6-f9eb8076cf2f",
                     "Name": "MOBIUS ［JP］",
-                    "Description": ""
+                    "Description": "開発地獄の過程を描く、インタラクティブなストーリー体験。 日本語翻訳版。所要時間：約1時間30分"
+                },
+                {
+                    "ID": "wrld_c3e69a3a-508d-48e0-9289-0472b898804c",
+                    "Name": "Magic Heist",
+                    "Description": "魔法の壺に乗って物語を進めていくライドアクション。世界観はハリッポーター。所要時間：約30分"
                 },
                 {
                     "ID": "wrld_1f7cca2a-72f7-4373-96e8-7ee8c823a1b0",
                     "Name": "The Sanctuary Forest",
-                    "Description": ""
+                    "Description": "ワールドクリエイター「wata23」制作ワールド。一人の女性を追いかける形で進んでいく。所要時間：30分"
                 },
                 {
                     "ID": "wrld_f97a1f4c-daf1-4b12-88d4-25c14516b7a7",
                     "Name": "ヴァリアライド-Varea'Ride-",
-                    "Description": ""
+                    "Description": "悪のVR怪人組織『悪役結社ヴァリアール』の大迫力ライドアトラクションワールド。所要時間：30分"
                 },
                 {
                     "ID": "wrld_",
@@ -1195,27 +1199,31 @@
                 {
                     "ID": "wrld_94944b6d-d1be-479c-89d0-b401ea477db3",
                     "Name": "Freeze",
-                    "Description": ""
+                    "Description": "お気に入りのSFワールド1。撮影用にも最適。"
                 },
                 {
                     "ID": "wrld_2da2de70-6d8d-4940-b658-642f44ebdacd",
                     "Name": "oz08c",
-                    "Description": ""
+                    "Description": "お気に入りのSFワールド2。撮影用にも最適。"
                 },
+                {
+                    "ID": "wrld_424c75c2-533c-4922-be0d-cd13c6aa6d6f",
+                    "Name": "Antiheat's Apartment",
+                    "Description": "サイバー感たっぷりのアパートと作りこまれた街のクオリティが素晴らしいワールド。"
+                },
+
+
+
                 {
                     "ID": "wrld_5e8adb56-e91f-4e92-93e4-df04a5398395",
                     "Name": "_REALITY",
                     "Description": ""
                 },
-                {
-                    "ID": "wrld_424c75c2-533c-4922-be0d-cd13c6aa6d6f",
-                    "Name": "Antiheat's Apartment",
-                    "Description": ""
-                },
+
                 {
                     "ID": "wrld_d39b36c7-e6aa-4b88-8c7a-b4464c8bc0b6",
                     "Name": "City of Liliya",
-                    "Description": ""
+                    "Description": "ヨーロッパの街並み、光の表現が美しく写真撮影にも最適。"
                 },
                 {
                     "ID": "",
@@ -1259,9 +1267,15 @@
                     "Description": ""
                 },
                 {
+                    "ID": "wrld_27027d33-224d-465b-b116-992eb84aaab0",
+                    "Name": "City MIO for Vehicle World",
+                    "Description": ""
+                },
+
+                {
                     "ID": "wrld_518e90cd-1643-4665-a43b-9be77db8106b",
                     "Name": "ひなげし坂_HinageshiZaka",
-                    "Description": ""
+                    "Description": "海が一望できる田舎の街並みが素晴らしいワールド。"
                 },
                 {
                     "ID": "wrld_66b25766-e60c-43c3-a2e2-2009ee21151b",
@@ -1271,23 +1285,19 @@
                 {
                     "ID": "wrld_b981e35e-597f-4604-a06b-d92188bf89e9",
                     "Name": "Storm Drain",
-                    "Description": ""
+                    "Description": "首都圏外郭放水路がモデルになっている地下治水施設のワールド。"
                 },
                 {
                     "ID": "wrld_b3ac05a2-17b4-4733-b77b-f232b6d2dd6f",
                     "Name": "ヴィルーパ 中層 Sector 2496",
-                    "Description": ""
+                    "Description": "SF感満載のワールド。一部の建物は中に入ることも可能。"
                 },
                 {
                     "ID": "wrld_93b31781-0e0b-4162-8486-bb11634200f4",
                     "Name": "PROJECT˸ N․A․T․U․R․E․",
-                    "Description": ""
+                    "Description": "※要確認ゲームワールド？ アウトドアフィールドに設置されたゲートの先は謎の研究所。徘徊するエンティティを避けつつ次なるテレポート装置を起動"
                 },
-                {
-                    "ID": "wrld_ca2c5edc-b44b-4c68-863a-9a94b04889d5",
-                    "Name": "District Roboto",
-                    "Description": ""
-                },
+
                 {
                     "ID": "wrld_d5d2825e-7896-46db-9a5e-8154648c95ed",
                     "Name": "Get Lostǃ ［Forest］",
@@ -1296,7 +1306,7 @@
                 {
                     "ID": "wrld_1611ec65-15ed-4d25-bb40-9304e6dbbd3b",
                     "Name": "Japan After School",
-                    "Description": ""
+                    "Description": "日本の懐かしい雰囲気のワールド。"
                 },
                 {
                     "ID": "wrld_75e6540d-5b53-4251-9f54-13af2f9d6d26",
@@ -1311,7 +1321,7 @@
                 {
                     "ID": "wrld_c8086273-d122-49f2-9a67-f3f65ef4a12f",
                     "Name": "猫島 -Cat Island-",
-                    "Description": ""
+                    "Description": "猫ちゃんがいっぱい！"
                 },
                 {
                     "ID": "wrld_b15a831e-d2b2-4bfe-affd-fcc9e7184e5c",
@@ -1333,7 +1343,7 @@
                 {
                     "ID": "wrld_633633da-1db7-4810-9aed-d3489a42676f",
                     "Name": "- ERISIA -",
-                    "Description": ""
+                    "Description": "お城のワールド。めちゃくちゃ重いけどクオリティ◎"
                 },
 
                 {
@@ -1354,7 +1364,7 @@
                 {
                     "ID": "wrld_5deff489-432d-4f22-bd50-3085773faa16",
                     "Name": "Tokyo Mood by BEAMS",
-                    "Description": ""
+                    "Description": "ファッションブランド「BEAMS」の公式ワールド。実際に販売されている服以外にも、作りこまれた街並みや期間限定イベント等も。"
                 },
                 {
                     "ID": "wrld_ef280de9-4953-4068-8bbf-83a72c4e6f63",
@@ -1364,13 +1374,9 @@
                 {
                     "ID": "wrld_cc2e04ab-67a9-4094-aa30-d5dc6103a755",
                     "Name": "The Park",
-                    "Description": ""
+                    "Description": "リアルな海外の公園ワールド。"
                 },
-                {
-                    "ID": "wrld_27027d33-224d-465b-b116-992eb84aaab0",
-                    "Name": "City MIO for Vehicle World",
-                    "Description": ""
-                },
+
                 {
                     "ID": "wrld_37898fa4-795d-4ebe-8aff-7b51def788a2",
                     "Name": "Coffee＆Cigarettes -どこかで見た街-",
@@ -1465,14 +1471,29 @@
             "Category": "チルワールド",
             "Worlds": [
                 {
-                    "ID": "wrld_41e4eb69-33e2-438f-9462-00ec2c72a146",
-                    "Name": "Sea Breeze",
-                    "Description": ""
+                    "ID": "wrld_beddab1e-fee1-cafe-f00d-ca7c0dd1eca7",
+                    "Name": "SuRroom",
+                    "Description": "王道チルワ。使い勝手が良く居心地◎。ポリゴンローディングあり。"
                 },
                 {
-                    "ID": "wrld_081568d8-3f1b-493b-bf0c-ecfe81400ae2",
-                    "Name": "Naroom ［Luminous Akihabara］",
-                    "Description": ""
+                    "ID": "wrld_a1c1d9a3-d8ea-4852-a8f5-5c72f0b98653",
+                    "Name": "メゾン荘 201号室",
+                    "Description": "日本のアパートの一室を再現。"
+                },
+                {
+                    "ID": "wrld_21fdba2e-c8c7-4f15-b5c7-091b7441659c",
+                    "Name": "雨と君の寝息に耳をそばだてた。- A Quiet Rain and You -",
+                    "Description": "雨の音に拘りを感じるワールド。他のチルワではあまり見ないギミックあり。"
+                },
+
+
+
+
+
+                {
+                    "ID": "wrld_41e4eb69-33e2-438f-9462-00ec2c72a146",
+                    "Name": "Sea Breeze",
+                    "Description": "海の上でリラックスできるチルワールド"
                 },
                 {
                     "ID": "wrld_0555ef76-33f2-46d4-befb-9b0b6b5c2e54",
@@ -1482,12 +1503,7 @@
                 {
                     "ID": "wrld_1342e8b0-66bc-456b-83c4-3ee4c1ed6075",
                     "Name": "VRC立しゅうまつ保育園",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_b4fe6a92-0953-4a28-9155-cc5d014b454d",
-                    "Name": "BAR MANHATTAN",
-                    "Description": ""
+                    "Description": "幼稚園児になれるワールド。お昼寝部屋、紙芝居や積み木、子供用トイレあり。"
                 },
                 {
                     "ID": "wrld_1d638943-9cea-44f3-b975-6c2b6f73bbbd",
@@ -1499,62 +1515,21 @@
                     "Name": "お風呂のある部屋 YUTOROOM -ゆとるーむ-",
                     "Description": ""
                 },
-                {
-                    "ID": "wrld_beddab1e-fee1-cafe-f00d-ca7c0dd1eca7",
-                    "Name": "SuRroom",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_a1c1d9a3-d8ea-4852-a8f5-5c72f0b98653",
-                    "Name": "メゾン荘 201号室",
-                    "Description": ""
-                },
+
                 {
                     "ID": "wrld_e8db4bf4-9da9-4dd4-9dc3-1cd56820f038",
                     "Name": "Tiharuum - ちはるーむ",
                     "Description": ""
                 },
 
-                {
-                    "ID": "wrld_eddae68e-ecfd-4560-95df-d7334a0ae2b3",
-                    "Name": "遠郷の冬めく夜 -Nostalgic Winter Night-",
-                    "Description": "カテゴリ検討中"
-                },
-                {
-                    "ID": "wrld_21fdba2e-c8c7-4f15-b5c7-091b7441659c",
-                    "Name": "雨と君の寝息に耳をそばだてた。- A Quiet Rain and You -",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_080198c1-caab-460d-8c94-6f77628ca2c6",
-                    "Name": "バーチャル居酒屋「がやがや」",
-                    "Description": "カテゴリ検討中"
-                },
+
+
                 {
                     "ID": "wrld_9b0129ef-819c-44eb-86e6-01014c759ff3",
                     "Name": "Tranquil Penthouse",
                     "Description": ""
                 },
-                {
-                    "ID": "wrld_7dd281ca-1472-4735-8fd3-e0a27c190598",
-                    "Name": "敗北居酒屋かがさき - Japanese Izakaya Kagasaki",
-                    "Description": "カテゴリ検討中"
-                },
-                {
-                    "ID": "wrld_8dd418ec-8258-4d6b-afc5-c83c938b74c1",
-                    "Name": "SANATORIUM",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_413f924b-82d5-49e7-b4ff-0b20b5c94346",
-                    "Name": "中文咖啡厅 v3",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_49a52af0-ecb1-469a-9e2e-b7217a625c4e",
-                    "Name": "Luminous Hotel",
-                    "Description": ""
-                },
+
                 {
                     "ID": "wrld_",
                     "Name": "",
@@ -1584,11 +1559,6 @@
                 {
                     "ID": "wrld_0c3caeaa-7224-4800-aa64-bc473ccb18a2",
                     "Name": "Starlight lane",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_aa498064-a0ed-4f1b-a0fa-fecc96ab0147",
-                    "Name": "2PA Hotel",
                     "Description": ""
                 },
                 {
@@ -1624,7 +1594,12 @@
                 {
                     "ID": "wrld_7bb629cd-2416-46e3-9242-2c2eec705e90",
                     "Name": "キロバイトのうみ - Sea of KB",
-                    "Description": ""
+                    "Description": "超軽量な浜辺のワールド。"
+                },
+                {
+                    "ID": "wrld_e96871d6-bf36-474c-bb64-6c6a3c900e2f",
+                    "Name": "キロバイトシアター~KILOBYTE_THEATER~",
+                    "Description": "超軽量な映画館ワールド。実際に無料公開されている映画を見ることができる。"
                 },
                 {
                     "ID": "wrld_fb27b756-fd6a-44ff-ae28-6c8642499aa4",
@@ -1654,18 +1629,14 @@
                 {
                     "ID": "wrld_02c8ac42-7b6c-4dd1-8a3d-1d12d20cd148",
                     "Name": "星降る丘に芽吹くは、忘れられし世界樹 -Forgotten Yggdrasil on the Starry Hill-",
-                    "Description": ""
+                    "Description": "空から落ちてくる星屑を集めて世界樹を成長されるワールド。"
                 },
                 {
                     "ID": "wrld_8be86467-e58c-49d6-979c-5631983ba599",
                     "Name": "draft",
                     "Description": ""
                 },
-                {
-                    "ID": "wrld_e96871d6-bf36-474c-bb64-6c6a3c900e2f",
-                    "Name": "キロバイトシアター~KILOBYTE_THEATER~",
-                    "Description": ""
-                },
+
                 {
                     "ID": "wrld_21e05a52-08d9-4d05-8307-101d6464944a",
                     "Name": "-yuuri-夏色庭園",
@@ -1758,6 +1729,156 @@
                 }
             ]
         },
+
+
+        {
+            "Category": "チルワ(旅館・ホテル・喫茶店)",
+            "Worlds": [
+
+                {
+                    "ID": "wrld_49a52af0-ecb1-469a-9e2e-b7217a625c4e",
+                    "Name": "Luminous Hotel",
+                    "Description": "クオリティが高い販売ワールド。カードキーで入出制限のギミックあり。"
+                },
+                {
+                    "ID": "wrld_081568d8-3f1b-493b-bf0c-ecfe81400ae2",
+                    "Name": "Naroom ［Luminous Akihabara］",
+                    "Description": "ルミナスホテル系列ワールド。実際の秋葉原で撮影した夜景がポイント。"
+                },
+                {
+                    "ID": "wrld_b4fe6a92-0953-4a28-9155-cc5d014b454d",
+                    "Name": "BAR MANHATTAN",
+                    "Description": "ルミナスホテル系列のバー。ワールド販売あり。"
+                },
+                {
+                    "ID": "wrld_aaeef9ec-c42e-4b95-870d-22bbc11a97aa",
+                    "Name": "超懐郷の秋澄む処 -Nostalgic Autumn Riverside 2024-",
+                    "Description": "秋の旅館ワールド。紅葉が一望できる露天風呂がイチオシ。"
+                },
+                {
+                    "ID": "wrld_eddae68e-ecfd-4560-95df-d7334a0ae2b3",
+                    "Name": "遠郷の冬めく夜 -Nostalgic Winter Night-",
+                    "Description": "温泉旅館のワールド。雪を眺めながらリラックス気分。"
+                },
+                {
+                    "ID": "wrld_080198c1-caab-460d-8c94-6f77628ca2c6",
+                    "Name": "バーチャル居酒屋「がやがや」",
+                    "Description": "カテゴリ検討中。居酒屋ワールド。定期的にイベントも開催されている。"
+                },
+                {
+                    "ID": "wrld_7dd281ca-1472-4735-8fd3-e0a27c190598",
+                    "Name": "敗北居酒屋かがさき - Japanese Izakaya Kagasaki",
+                    "Description": "カテゴリ検討中。居酒屋ワールド。"
+                },
+                {
+                    "ID": "wrld_8dd418ec-8258-4d6b-afc5-c83c938b74c1",
+                    "Name": "SANATORIUM",
+                    "Description": "喫茶店ワールド。室内もさることながら外の景色が◎"
+                },
+                {
+                    "ID": "wrld_413f924b-82d5-49e7-b4ff-0b20b5c94346",
+                    "Name": "中文咖啡厅 v3",
+                    "Description": "中国語の喫茶店ワールド。明るい雰囲気の店内が魅力。"
+                },
+
+
+
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+
+
+
+                {
+                    "ID": "wrld_aa498064-a0ed-4f1b-a0fa-fecc96ab0147",
+                    "Name": "2PA Hotel",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                }
+            ]
+        },
+
 
 
 
