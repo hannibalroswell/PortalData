@@ -919,11 +919,7 @@
                     "Name": "Zombie Survival",
                     "Description": "多人数で協力してゾンビを倒していくワールド。"
                 },
-                {
-                    "ID": "wrld_c077aa49-4820-472d-ace5-c11368f1e3f4",
-                    "Name": "Project Aincrad",
-                    "Description": "ソードアートオンライン再現ワールド。作中と同じく手でメニュー操作ができる。"
-                },
+
                 {
                     "ID": "wrld_1c421ebe-2c92-479f-8242-26d3aceb13ba",
                     "Name": "CoinAmusement by UdonChips",
@@ -1908,22 +1904,22 @@
                 {
                     "ID": "wrld_d1a65b73-9ee9-4180-8fbf-9ab8a4a83409",
                     "Name": "Monster Hunter Tri - Deserted Island ＋ Moga Village",
-                    "Description": ""
+                    "Description": "モンスターハンター3のワールド。アイテム採集もできる。"
                 },
                 {
                     "ID": "wrld_ba5bd56b-7e49-47bf-b793-f688e9c21ca2",
                     "Name": "Monster Hunter - Forest and Hills",
-                    "Description": ""
+                    "Description": "初代モンハン「森丘」のワールド。※違法ワールド"
                 },
                 {
                     "ID": "wrld_c077aa49-4820-472d-ace5-c11368f1e3f4",
                     "Name": "Project Aincrad",
-                    "Description": ""
+                    "Description": "ソードアートオンライン再現ワールド。作中と同じく手でメニュー操作ができる。"
                 },
                 {
                     "ID": "wrld_cfc94d63-c28f-4529-b483-f419f5ee8c44",
                     "Name": "VRC Hogwarts",
-                    "Description": ""
+                    "Description": "ハリッポーターの再現ワールド"
                 },
                 {
                     "ID": "wrld_aa4e7dc7-6e9e-47b2-bf93-e3be9520075a",
