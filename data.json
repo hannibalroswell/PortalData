@@ -105,6 +105,61 @@
                     "Description": ""
                 },
                 {
+                    "ID": "wrld_88f53317-1f12-4aef-8adc-f8803f8dc1e3",
+                    "Name": "VRサッポロ -VR Sapporo fest-",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_3380ca07-2b6f-430e-a9b4-e3ee72f175af",
+                    "Name": "Yamanote Line E235",
+                    "Description": "山手線の車内の再現ワールド"
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "未設定",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "未設定",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "未設定",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "未設定",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "未設定",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "未設定",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "未設定",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "未設定",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "未設定",
+                    "Description": ""
+                },
+                {
                     "ID": "wrld_",
                     "Name": "未設定",
                     "Description": ""
@@ -186,6 +241,21 @@
                     "ID": "wrld_3f454b44-6c61-484d-bd5b-0a5abfd5f3f2",
                     "Name": "フォトグラ携帯ゲーム機展示室",
                     "Description": "フォトグラメトリで再現されたゲーム機のモデルがあり、説明もあるため知識が無くても楽しむことができる。"
+                },
+                {
+                    "ID": "wrld_f3bf6f63-5eff-4290-b73c-fe14447539dd",
+                    "Name": "Yonago Castle",
+                    "Description": "鳥取『米子城跡』"
+                },
+                {
+                    "ID": "wrld_3c333b28-02de-4169-9d58-2f64187cb674",
+                    "Name": "天地魔闘の構え",
+                    "Description": "「情報量が多い画像」でおなじみ、「天地魔闘の構えで目を閉じた女子中学生の後ろで犬が逃げてる写真」の聖地を3DGSで立体化"
+                },
+                {
+                    "ID": "wrld_9e50727a-7eb2-45bc-8e6d-220eee0989b3",
+                    "Name": "Nakagin Capsule Tower 3DDA",
+                    "Description": "解体の進む「中銀カプセルタワービル」を丸ごと3Dデジタルアーカイブ！ レーザースキャンとフォトグラメトリにより生成"
                 }
             ]
         },
@@ -250,6 +320,11 @@
                     "Name": "Exhibition˸ The day before the Summer begins․",
                     "Description": "プロジェクトサマーフレアの展示店"
                 },
+                {
+                    "ID": "wrld_07e9d737-8957-4ac6-9128-8d08c05c4fc9",
+                    "Name": "実写合成ミュージアム-RealPhotoFusionMuseum",
+                    "Description": "現実の写真の中に入れるワールド"
+                },
 
 
 
@@ -304,6 +379,11 @@
                 {
                     "ID": "wrld_b0396e28-6d1c-4b8a-86b6-31b8389154e5",
                     "Name": "Portal Gun （UDON）",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_7b8d35ac-51e0-4008-9c8a-26e9b7da566d",
+                    "Name": "Exhibition hall Code Geass Lelouch of the Rebellion × FLOWコードギアス",
                     "Description": ""
                 },
                 {
@@ -426,6 +506,156 @@
                 },
                 {
                     "ID": "wrld_d0566e16-20a8-4063-8b1b-e181371f751d",
+                    "Name": "",
+                    "Description": ""
+                }
+            ]
+        },
+
+
+
+        {
+            "Category": "写真撮影",
+            "Worlds": [
+                {
+                    "ID": "wrld_2e6867b9-0c78-43ec-8bd5-77aacd751ecd",
+                    "Name": "Dance away in the dark 2․0",
+                    "Description": "ネオンのトンネルが美しいワールド"
+                },
+                {
+                    "ID": "wrld_b981e35e-597f-4604-a06b-d92188bf89e9",
+                    "Name": "Storm Drain",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_2da2de70-6d8d-4940-b658-642f44ebdacd",
+                    "Name": "oz08c",
+                    "Description": "ワールドクリエイターOzenのワールド。SF感が魅力のオープンワールド"
+                },
+                {
+                    "ID": "wrld_94944b6d-d1be-479c-89d0-b401ea477db3",
+                    "Name": "Freeze",
+                    "Description": "ワールドクリエイターOzenのワールド。SF感が魅力"
+                },
+                {
+                    "ID": "wrld_269fa2ee-33e6-4505-b44f-fd1b3e4b6262",
+                    "Name": "小雨のあの日-A drizzly day",
+                    "Description": "雨が降る夕暮れの町のワールド。ライティングや水面反射が魅力的"
+                },
+                {
+                    "ID": "wrld_2d9803f0-924d-407c-b92b-b0654c5afbde",
+                    "Name": "Waves",
+                    "Description": "海の上の崩れた道路のワールド。リアルな反射あり"
+                },
+                {
+                    "ID": "wrld_59b59817-50b3-461d-bcb7-a55983ccdcc6",
+                    "Name": "Asbestos",
+                    "Description": "無機質なコンクリートで構成されたワールド"
+                },
+                {
+                    "ID": "wrld_27153d8c-cd95-4207-afca-8ed02239fdd0",
+                    "Name": "Forest of Eternity",
+                    "Description": "水辺の森林の中に月の光が照らされているワールド"
+                },
+                {
+                    "ID": "",
+                    "Name": "",
+                    "Description": ""
+                },
+
+                {
+                    "ID": "wrld_",
+                    "Name": "ここまでポータル設置しています。",
+                    "Description": ""
+                },
+
+                {
+                    "ID": "wrld_0664fc7a-29b4-4334-b7ef-559be5fcb7a0",
+                    "Name": "大空さんぽ道 -Parasol Promenade-",
+                    "Description": "雲海が広がる傘の道が続くワールド"
+                },
+                {
+                    "ID": "wrld_f40f094d-3ee2-406a-a2ea-ef76722760b0",
+                    "Name": "旧吾妻埠頭サイロ-地下非常通路",
+                    "Description": "地下通路に光り輝くネオンが飾られているワールド"
+                },
+                {
+                    "ID": "wrld_8cd302c3-d0b7-4a16-a39b-6860c24ee0c2",
+                    "Name": "New Grass Station",
+                    "Description": "SF世界の廃墟の駅ワールド"
+                },
+                {
+                    "ID": "wrld_72a5616c-da9c-438e-ab40-b2360dd17921",
+                    "Name": "Tarried Precipice",
+                    "Description": "荒廃した海辺の世界のワールド"
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
                     "Name": "",
                     "Description": ""
                 }
@@ -860,11 +1090,6 @@
                     "Name": "",
                     "Description": ""
                 },
-                {
-                    "ID": "wrld_",
-                    "Name": "",
-                    "Description": ""
-                },
 
 
 
@@ -1140,9 +1365,9 @@
                     "Description": "悪のVR怪人組織『悪役結社ヴァリアール』の大迫力ライドアトラクションワールド。所要時間：30分"
                 },
                 {
-                    "ID": "wrld_",
-                    "Name": "",
-                    "Description": ""
+                    "ID": "wrld_ec8a1907-eb2b-4087-8229-c4dfbd6aa3c0",
+                    "Name": "眠る月想う花",
+                    "Description": "月が綺麗な世界を進んでいくワールド。所要時間：5分"
                 },
                 {
                     "ID": "wrld_",
@@ -1481,8 +1706,16 @@
                     "Name": "雨と君の寝息に耳をそばだてた。- A Quiet Rain and You -",
                     "Description": "雨の音に拘りを感じるワールド。他のチルワではあまり見ないギミックあり。"
                 },
-
-
+                {
+                    "ID": "wrld_1342e8b0-66bc-456b-83c4-3ee4c1ed6075",
+                    "Name": "VRC立しゅうまつ保育園",
+                    "Description": "幼稚園児になれるワールド。お昼寝部屋、紙芝居や積み木、子供用トイレあり。"
+                },
+                {
+                    "ID": "wrld_05a179cd-bda9-464f-bf91-3597cfa6e27f",
+                    "Name": "お風呂のある部屋 YUTOROOM -ゆとるーむ-",
+                    "Description": ""
+                },
 
 
 
@@ -1496,52 +1729,53 @@
                     "Name": "city rain",
                     "Description": ""
                 },
-                {
-                    "ID": "wrld_1342e8b0-66bc-456b-83c4-3ee4c1ed6075",
-                    "Name": "VRC立しゅうまつ保育園",
-                    "Description": "幼稚園児になれるワールド。お昼寝部屋、紙芝居や積み木、子供用トイレあり。"
-                },
+
                 {
                     "ID": "wrld_1d638943-9cea-44f3-b975-6c2b6f73bbbd",
                     "Name": "Nocturnadia",
                     "Description": ""
                 },
+
                 {
-                    "ID": "wrld_05a179cd-bda9-464f-bf91-3597cfa6e27f",
-                    "Name": "お風呂のある部屋 YUTOROOM -ゆとるーむ-",
+                    "ID": "world/wrld_4e5b0738-c343-4707-843a-955fa8d3ed1a",
+                    "Name": "Metro Heights",
                     "Description": ""
                 },
-
                 {
                     "ID": "wrld_e8db4bf4-9da9-4dd4-9dc3-1cd56820f038",
                     "Name": "Tiharuum - ちはるーむ",
                     "Description": ""
                 },
-
-
-
+                {
+                    "ID": "world/wrld_c0a082b9-fa46-4e0e-9715-1e00c7f81331",
+                    "Name": "Breeze Way",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_b477c764-43a2-43f0-8355-d2871af3881d",
+                    "Name": "Hexahedron Estate",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_2638773e-483a-430c-a139-a80a463e489a",
+                    "Name": "Abstract˸Echo",
+                    "Description": ""
+                },
                 {
                     "ID": "wrld_9b0129ef-819c-44eb-86e6-01014c759ff3",
                     "Name": "Tranquil Penthouse",
                     "Description": ""
                 },
-
                 {
-                    "ID": "wrld_",
-                    "Name": "",
+                    "ID": "wrld_388b774d-a0f4-4225-902c-339c39385cbe",
+                    "Name": "暮相の入り江-kureai-",
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_",
-                    "Name": "",
+                    "ID": "wrld_83eeee9e-d42a-49b3-82f1-d5518a3c21b0",
+                    "Name": "情報に溺れるための部屋（改）",
                     "Description": ""
                 },
-
-
-
-
-
-
                 {
                     "ID": "wrld_266523e8-9161-40da-acd0-6bd82e075833",
                     "Name": "Popcorn Palace",
@@ -1632,7 +1866,6 @@
                     "Name": "draft",
                     "Description": ""
                 },
-
                 {
                     "ID": "wrld_21e05a52-08d9-4d05-8307-101d6464944a",
                     "Name": "-yuuri-夏色庭園",
@@ -1975,23 +2208,23 @@
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_",
-                    "Name": "",
+                    "ID": "wrld_b606cba5-f90a-4d71-af61-94623113e01e",
+                    "Name": "Beyond Darkness ［Horror］",
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_",
-                    "Name": "",
+                    "ID": "wrld_4c80f59e-bdb3-4033-a56c-957e44b9ca6d",
+                    "Name": "Paracusia",
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_",
-                    "Name": "",
+                    "ID": "wrld_ccb8ab69-9682-42d8-b7bd-f2e07337a0f3",
+                    "Name": "DIVERGE",
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_",
-                    "Name": "",
+                    "ID": "wrld_9ed2fbc3-2b81-4c77-93f9-6cd50180e651",
+                    "Name": "Beneath",
                     "Description": ""
                 },
                 {
@@ -2053,8 +2286,43 @@
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_",
-                    "Name": "",
+                    "ID": "wrld_1b94e327-036b-4d09-81be-e898d71f02cb",
+                    "Name": "日本人向け 1対1お話しワールド NAGiSA",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_6b77c061-a1bf-48eb-b107-c4d944490198",
+                    "Name": "McDonald's",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_7345f139-e021-45cb-986e-b8b0f43994fa",
+                    "Name": "VRC-JP 初心者プラザ",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_7dd281ca-1472-4735-8fd3-e0a27c190598",
+                    "Name": "敗北居酒屋かがさき - Japanese Izakaya Kagasaki",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_080198c1-caab-460d-8c94-6f77628ca2c6",
+                    "Name": "バーチャル居酒屋「がやがや」",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_9ba9fd77-31c7-432a-bcb4-8983bec75ef8",
+                    "Name": "FirstNoteStation~始発駅~Night",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_c82a5c14-97a5-4782-a034-d897d2d943a2",
+                    "Name": "VRC 新宿駅 Shinjuku Station",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_b6cdc295-b237-4b83-909e-34e4c44e9dd4",
+                    "Name": "LEGNA's Portal World",
                     "Description": ""
                 },
                 {
@@ -2086,6 +2354,97 @@
                     "ID": "wrld_",
                     "Name": "",
                     "Description": ""
+                }
+            ]
+        },
+
+
+
+        {
+            "Category": "調整・確認",
+            "Worlds": [
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_100a0fb3-1e66-4cd8-b0cb-47353f10de88",
+                    "Name": "Just 三面図 ／ Just sanmenzu ［Quest対応］",
+                    "Description": "アバターの三面図が簡単に取れるワールド"
+                },
+                {
+                    "ID": "wrld_3bbf6e18-3a2e-40a1-81b8-5652943dfd01",
+                    "Name": "Quest対応事前確認ワールド",
+                    "Description": "シェーダーをToonLitに変更した場合の見た目を確認できる"
+                },
+                {
+                    "ID": "wrld_c69281a4-c328-4e46-9275-a284d1f97fce",
+                    "Name": "改変入門ワールド～Introduction to Customization～",
+                    "Description": "改変情報を確認できるワールド"
+                },
+                {
+                    "ID": "wrld_7835a5ef-25b3-4b9c-b382-dd41eff596d4",
+                    "Name": "アバター改変チュートリアル",
+                    "Description": "改変情報を確認できるワールド"
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                }
+            ]
+        },
+
+
+
+        {
+            "Category": "その他",
+            "Worlds": [
+                {
+                    "ID": "wrld_6075be77-2fa3-44c2-8204-95905bb3fd53",
+                    "Name": "MyAvatarGoods",
+                    "Description": "自分のアバターでアクリルキーホルダーを作成できるワールド"
+                },
+                {
+                    "ID": "wrld_eb8057b3-36ff-4076-ac2a-4e723259ca44",
+                    "Name": "Raiti's FireWorksǃǃ",
+                    "Description": "花火が打ち上げられるワールド"
+                },
+                {
+                    "ID": "wrld_af46b672-1ade-4de9-b4b1-a86f7b79ee90",
+                    "Name": "波打ち際と",
+                    "Description": "海シェーダー「nmSeashore」のサンプルワールド"
+                },
+                {
+                    "ID": "wrld_003066bf-9e17-42f2-8801-9fd13e1aacf0",
+                    "Name": "しまぱんらんど",
+                    "Description": "第3回しまぱん集会会場"
+                },
+                {
+                    "ID": "wrld_b173f70d-c242-4f9d-b40e-884cd86a8c1d",
+                    "Name": "珍ポ - 珍ポータルワールド -",
+                    "Description": "珍ポータルワールド、略して珍ポ"
                 },
                 {
                     "ID": "wrld_",
@@ -2124,8 +2483,6 @@
                 }
             ]
         },
-
-
 
         {
             "Category": "未設定",
