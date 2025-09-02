@@ -1405,46 +1405,6 @@
                     "ID": "wrld_",
                     "Name": "未設定",
                     "Description": ""
-                },
-                {
-                    "ID": "wrld_",
-                    "Name": "未設定",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_",
-                    "Name": "未設定",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_",
-                    "Name": "未設定",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_",
-                    "Name": "未設定",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_",
-                    "Name": "未設定",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_",
-                    "Name": "未設定",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_",
-                    "Name": "未設定",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_",
-                    "Name": "未設定",
-                    "Description": ""
                 }
             ]
         },
@@ -2870,6 +2830,11 @@
             "Category": "ホラー",
             "Worlds": [
                 {
+                    "ID": "wrld_a87e7c31-2da8-451e-a79e-b1de72d53f9c",
+                    "Name": "［アライさんマンション］ Araisan Mansion",
+                    "Description": ""
+                },
+                {
                     "ID": "wrld_4504bf40-404b-4240-92c9-857fb8d9c8e2",
                     "Name": "［JPT］ Develop ver․",
                     "Description": ""
@@ -3016,8 +2981,8 @@
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_",
-                    "Name": "",
+                    "ID": "wrld_e684c2c3-4a13-4ad4-9b9c-698b1059b359",
+                    "Name": "i丫 MM口 W口RLD UNOFFICIAL 2 3",
                     "Description": ""
                 },
                 {
