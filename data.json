@@ -887,7 +887,7 @@
                 {
                     "ID": "wrld_b981e35e-597f-4604-a06b-d92188bf89e9",
                     "Name": "Storm Drain",
-                    "Description": ""
+                    "Description": "地下排水路ワールド"
                 },
                 {
                     "ID": "wrld_2da2de70-6d8d-4940-b658-642f44ebdacd",
@@ -920,6 +920,53 @@
                     "Description": "水辺の森林の中に月の光が照らされているワールド"
                 },
                 {
+                    "ID": "wrld_23d8a8a9-f9d3-4107-8894-5ae4370f192e",
+                    "Name": "ALTER EGO",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_a922b8e1-2351-4c27-b370-4c7fb5dd79c3",
+                    "Name": "AQUA HEAVEN - Waterpark Pool",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_1051d8dc-7caf-4a1b-ba98-5e6a60f489ca",
+                    "Name": "澄夏町学校 プール開放日 -School Swimming Pool in Summer-",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_9242f839-c12a-4314-8447-fb93fabc2549",
+                    "Name": "カソウ中之島 Kasou Nakanoshima",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_8a4a128d-32df-4a45-8ac6-cd34486aa5d3",
+                    "Name": "夜行性の生き物 - Wanderers",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_8c5bf139-d180-4c40-a20e-48ad5c9f3b71",
+                    "Name": "彩光藤水園 -SAIKO FUJI SUIEN-",
+                    "Description": "チームラボ風"
+                },
+                {
+                    "ID": "wrld_49133e41-bc11-4122-ab83-1b3fcb45782e",
+                    "Name": "eMonahuziM",
+                    "Description": "チームラボ風"
+                },
+                {
+                    "ID": "wrld_94f3d1c0-2b3f-4ad4-b119-7f9dd20fa4c6",
+                    "Name": "Floating Breath",
+                    "Description": "チームラボ風"
+                },
+                {
+                    "ID": "wrld_6a747546-1cee-4b60-b5ea-1c3d4d2ab501",
+                    "Name": "8-bit Cyberpunk Junction",
+                    "Description": "ピクセルで作られた町のワールド　カテゴリ"
+                },
+
+
+                {
                     "ID": "",
                     "Name": "",
                     "Description": ""
@@ -951,16 +998,8 @@
                     "Name": "Tarried Precipice",
                     "Description": "荒廃した海辺の世界のワールド"
                 },
-                {
-                    "ID": "wrld_49133e41-bc11-4122-ab83-1b3fcb45782e",
-                    "Name": "eMonahuziM",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_94f3d1c0-2b3f-4ad4-b119-7f9dd20fa4c6",
-                    "Name": "Floating Breath",
-                    "Description": ""
-                },
+
+
                 {
                     "ID": "wrld_6a9bf292-2b09-4cee-b44e-a7e75cca114b",
                     "Name": "Ender lilies",
@@ -977,18 +1016,8 @@
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_23d8a8a9-f9d3-4107-8894-5ae4370f192e",
-                    "Name": "ALTER EGO",
-                    "Description": ""
-                },
-                {
                     "ID": "wrld_510e5eb5-9a1f-4b05-9df4-fb332842b522",
                     "Name": "Quixel Mine Entrance",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_8a4a128d-32df-4a45-8ac6-cd34486aa5d3",
-                    "Name": "夜行性の生き物 - Wanderers",
                     "Description": ""
                 },
                 {
@@ -999,11 +1028,6 @@
                 {
                     "ID": "wrld_af46b672-1ade-4de9-b4b1-a86f7b79ee90",
                     "Name": "波打ち際と",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_8c5bf139-d180-4c40-a20e-48ad5c9f3b71",
-                    "Name": "彩光藤水園 -SAIKO FUJI SUIEN-",
                     "Description": ""
                 },
                 {
@@ -1037,25 +1061,11 @@
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_1051d8dc-7caf-4a1b-ba98-5e6a60f489ca",
-                    "Name": "澄夏町学校 プール開放日 -School Swimming Pool in Summer-",
-                    "Description": ""
-                },
-                {
                     "ID": "wrld_2cb71f56-988c-471f-8141-018cf69d912f",
                     "Name": "まろの森 （夏祭）MARONOMORI -SUMMER FESTIVAL-",
                     "Description": ""
                 },
-                {
-                    "ID": "wrld_6a747546-1cee-4b60-b5ea-1c3d4d2ab501",
-                    "Name": "8-bit Cyberpunk Junction",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_a922b8e1-2351-4c27-b370-4c7fb5dd79c3",
-                    "Name": "AQUA HEAVEN - Waterpark Pool",
-                    "Description": ""
-                },
+
                 {
                     "ID": "wrld_e6318b9e-72aa-481e-95e1-07a03e3cefd9",
                     "Name": "幽鬼神社 -Yuki Shrine-",
@@ -1066,19 +1076,15 @@
                     "Name": "バーチャル体育館",
                     "Description": ""
                 },
+
                 {
-                    "ID": "wrld_9242f839-c12a-4314-8447-fb93fabc2549",
-                    "Name": "カソウ中之島 Kasou Nakanoshima",
+                    "ID": "wrld_5bb75ec9-1a19-4d93-b3d2-8e963f72d56a",
+                    "Name": "Seclusion․002",
                     "Description": ""
                 },
                 {
-                    "ID": "",
-                    "Name": "",
-                    "Description": ""
-                },
-                {
-                    "ID": "",
-                    "Name": "",
+                    "ID": "wrld_9a3bde21-eaa5-4515-9d11-ed5ff8944d6b",
+                    "Name": "起き始めた街で ［Morning‚ on the footbridge］",
                     "Description": ""
                 },
                 {
@@ -1219,12 +1225,12 @@
                 {
                     "ID": "wrld_b0396e28-6d1c-4b8a-86b6-31b8389154e5",
                     "Name": "Portal Gun （UDON）",
-                    "Description": ""
+                    "Description": "カテゴリ"
                 },
                 {
                     "ID": "wrld_7b8d35ac-51e0-4008-9c8a-26e9b7da566d",
                     "Name": "Exhibition hall Code Geass Lelouch of the Rebellion × FLOWコードギアス",
-                    "Description": ""
+                    "Description": "コードギアスの公式展示ワールド"
                 },
                 {
                     "ID": "wrld_0ab57861-abb2-4802-8783-4ae089ea268b",
@@ -1234,7 +1240,7 @@
                 {
                     "ID": "wrld_9f8c0791-ada2-4220-896c-f79fa6a9c8f7",
                     "Name": "VR Photography Contest 2025",
-                    "Description": ""
+                    "Description": "「VR Photography Contest 2025」フォトギャラリーワールド"
                 },
                 {
                     "ID": "wrld_3f454b44-6c61-484d-bd5b-0a5abfd5f3f2",
@@ -1274,12 +1280,12 @@
                 {
                     "ID": "wrld_e4b6c5d2-ec46-460a-9dca-045bb78ee5c9",
                     "Name": "Gogh Gallery ゴッホ展",
-                    "Description": ""
+                    "Description": "ゴッホの生涯を通じて作り上げた作品が展示されているワールド"
                 },
                 {
                     "ID": "wrld_340530b1-1068-4d17-88c1-a6dbffdb7382",
                     "Name": "Pavilion Garage by MoscowMule",
-                    "Description": ""
+                    "Description": "自動車の3Dモデルが展示されているワールド"
                 },
                 {
                     "ID": "",
