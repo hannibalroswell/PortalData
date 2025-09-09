@@ -587,13 +587,11 @@
                     "Name": "ハジマリと福音の先へ -After the Origins and the Bell-",
                     "Description": "入口のカギで壁を壊してからが本番。"
                 },
-
                 {
                     "ID": "wrld_269fa2ee-33e6-4505-b44f-fd1b3e4b6262",
                     "Name": "小雨のあの日-A drizzly day",
                     "Description": "雨が降る、どこかの町のワールド。夕日と雨のコントラストが◎"
                 },
-
                 {
                     "ID": "wrld_af4e67ae-bb39-48c1-acc9-ab98cd59c5d5",
                     "Name": "神隠シンドローム -SpiritedAway Syndrome-",
@@ -922,27 +920,27 @@
                 {
                     "ID": "wrld_23d8a8a9-f9d3-4107-8894-5ae4370f192e",
                     "Name": "ALTER EGO",
-                    "Description": ""
+                    "Description": "小難しい単語が落ちてくる一本道。途中ループあり。"
                 },
                 {
                     "ID": "wrld_a922b8e1-2351-4c27-b370-4c7fb5dd79c3",
                     "Name": "AQUA HEAVEN - Waterpark Pool",
-                    "Description": ""
+                    "Description": "夏のプールワールド。ウォータースライダーあり。"
                 },
                 {
                     "ID": "wrld_1051d8dc-7caf-4a1b-ba98-5e6a60f489ca",
                     "Name": "澄夏町学校 プール開放日 -School Swimming Pool in Summer-",
-                    "Description": ""
+                    "Description": "小学校のプールのワールド。"
                 },
                 {
                     "ID": "wrld_9242f839-c12a-4314-8447-fb93fabc2549",
                     "Name": "カソウ中之島 Kasou Nakanoshima",
-                    "Description": ""
+                    "Description": "都会の街中にある桜が美しい川辺のワールド。"
                 },
                 {
                     "ID": "wrld_8a4a128d-32df-4a45-8ac6-cd34486aa5d3",
                     "Name": "夜行性の生き物 - Wanderers",
-                    "Description": ""
+                    "Description": "深夜のコインランドリーのワールド。"
                 },
                 {
                     "ID": "wrld_8c5bf139-d180-4c40-a20e-48ad5c9f3b71",
