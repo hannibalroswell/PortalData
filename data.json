@@ -62,13 +62,11 @@
                     "Name": "city rain",
                     "Description": ""
                 },
-
                 {
                     "ID": "wrld_1d638943-9cea-44f3-b975-6c2b6f73bbbd",
                     "Name": "Nocturnadia",
                     "Description": ""
                 },
-
                 {
                     "ID": "world/wrld_4e5b0738-c343-4707-843a-955fa8d3ed1a",
                     "Name": "Metro Heights",
@@ -410,7 +408,7 @@
 
 
         {
-            "Category": "ホームワールド(旅館・ホテル・喫茶店)",
+            "Category": "ホームワールド(旅館・ホテル・飲食系)",
             "Worlds": [
 
                 {
@@ -995,11 +993,6 @@
                     "Description": ""
                 },
 
-                {
-                    "ID": "wrld_",
-                    "Name": "ここまでポータル設置しています。",
-                    "Description": ""
-                },
 
                 {
                     "ID": "wrld_0664fc7a-29b4-4334-b7ef-559be5fcb7a0",
@@ -1021,8 +1014,6 @@
                     "Name": "Tarried Precipice",
                     "Description": "荒廃した海辺の世界のワールド"
                 },
-
-
                 {
                     "ID": "wrld_6a9bf292-2b09-4cee-b44e-a7e75cca114b",
                     "Name": "Ender lilies",
@@ -1746,8 +1737,8 @@
                     "Description": "月が綺麗な世界を進んでいくワールド。所要時間：5分"
                 },
                 {
-                    "ID": "wrld_",
-                    "Name": "",
+                    "ID": "wrld_ef71bbd0-a7f9-4a20-8045-acb65cef6f71",
+                    "Name": "金の斧 銀の斧 （The golden axe）",
                     "Description": ""
                 },
                 {
@@ -2518,15 +2509,24 @@
             "Category": "パーティクルライブ・アトラクション",
             "Worlds": [
                 {
-                    "ID": "wrld_3dcabc45-b66b-4d38-abaa-d2922ca4d678",
-                    "Name": "Beyond a bit - 想像のちょっと先へ",
-                    "Description": ""
-                },
-                {
                     "ID": "wrld_8bbb6f61-61cf-4243-a58e-2000f2740e2b",
                     "Name": "よるとうげ -Yorutouge-",
                     "Description": ""
                 },
+                {
+                    "ID": "wrld_3dcabc45-b66b-4d38-abaa-d2922ca4d678",
+                    "Name": "Beyond a bit - 想像のちょっと先へ",
+                    "Description": ""
+                },
+
+
+                {
+                    "ID": "",
+                    "Name": "",
+                    "Description": ""
+                },
+
+
                 {
                     "ID": "wrld_3a079925-d132-4f10-90a9-989f9f6aafea",
                     "Name": "パフォーマンスステージ『Lumina』",
@@ -2566,11 +2566,6 @@
                     "ID": "",
                     "Name": "",
                     "Description": ""
-                },
-                {
-                    "ID": "",
-                    "Name": "",
-                    "Description": ""
                 }
             ]
         },
@@ -2578,18 +2573,31 @@
 
 
         {
-            "Category": "交流・ポータル",
+            "Category": "交流系",
             "Worlds": [
-                {
-                    "ID": "wrld_e4998032-8505-403e-817a-76bcc5af6816",
-                    "Name": "にとポータル -nito portal-",
-                    "Description": ""
-                },
                 {
                     "ID": "wrld_1b94e327-036b-4d09-81be-e898d71f02cb",
                     "Name": "日本人向け 1対1お話しワールド NAGiSA",
                     "Description": ""
                 },
+                {
+                    "ID": "wrld_c82a5c14-97a5-4782-a034-d897d2d943a2",
+                    "Name": "VRC 新宿駅 Shinjuku Station",
+                    "Description": ""
+                },
+                {
+                    "ID": "",
+                    "Name": "",
+                    "Description": ""
+                },
+
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+
+
                 {
                     "ID": "wrld_6b77c061-a1bf-48eb-b107-c4d944490198",
                     "Name": "McDonald's",
@@ -2615,9 +2623,39 @@
                     "Name": "FirstNoteStation~始発駅~Night",
                     "Description": ""
                 },
+
+
                 {
-                    "ID": "wrld_c82a5c14-97a5-4782-a034-d897d2d943a2",
-                    "Name": "VRC 新宿駅 Shinjuku Station",
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                }
+            ]
+        },
+
+
+
+        {
+            "Category": "ポータル",
+            "Worlds": [
+                {
+                    "ID": "wrld_e4998032-8505-403e-817a-76bcc5af6816",
+                    "Name": "にとポータル -nito portal-",
                     "Description": ""
                 },
                 {
@@ -2626,8 +2664,8 @@
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_",
-                    "Name": "",
+                    "ID": "wrld_213835f7-6a2f-49cf-82ad-5828cd03994c",
+                    "Name": "写真撮影向けポータルワールド",
                     "Description": ""
                 },
                 {
@@ -2782,8 +2820,8 @@
             "Category": "調整・改変・確認",
             "Worlds": [
                 {
-                    "ID": "wrld_",
-                    "Name": "",
+                    "ID": "wrld_96460268-8c89-438f-b8f2-2ea2f1ed1ce7",
+                    "Name": "The Avatar Studio ｜ Avatown",
                     "Description": ""
                 },
                 {
@@ -3091,6 +3129,11 @@
         {
             "Category": "保存テンプレ",
             "Worlds": [
+                {
+                    "ID": "",
+                    "Name": "",
+                    "Description": ""
+                },
                 {
                     "ID": "",
                     "Name": "",
