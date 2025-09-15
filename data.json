@@ -348,8 +348,8 @@
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_",
-                    "Name": "",
+                    "ID": "wrld_04062fa9-771b-4f5d-97fd-b7988db4122f",
+                    "Name": "湯けむりのコテージ",
                     "Description": ""
                 },
                 {
@@ -999,6 +999,11 @@
                     "Description": ""
                 },
                 {
+                    "ID": "wrld_5a350c04-8885-41b5-addd-173832a022ec",
+                    "Name": "路地裏学園",
+                    "Description": ""
+                },
+                {
                     "ID": "",
                     "Name": "",
                     "Description": ""
@@ -1063,11 +1068,6 @@
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_5a350c04-8885-41b5-addd-173832a022ec",
-                    "Name": "路地裏学園",
-                    "Description": ""
-                },
-                {
                     "ID": "wwrld_bfaaaf96-9553-4248-9778-6c661d6bd2cd",
                     "Name": "Pool of Souls",
                     "Description": ""
@@ -1128,8 +1128,8 @@
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_",
-                    "Name": "",
+                    "ID": "wrld_aa870c2b-4599-4f3d-bdbe-f04983e0c108",
+                    "Name": "幽庵『竹籠』",
                     "Description": ""
                 },
                 {
@@ -1138,13 +1138,13 @@
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_",
-                    "Name": "",
+                    "ID": "",
+                    "Name": "未設定",
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_",
-                    "Name": "",
+                    "ID": "",
+                    "Name": "未設定",
                     "Description": ""
                 }
             ]
@@ -1232,6 +1232,11 @@
                     "Description": ""
                 },
 
+                {
+                    "ID": "wrld_aa79218d-57fd-4c8d-a5ee-79f4014047c0",
+                    "Name": "SoundLab",
+                    "Description": ""
+                },
                 {
                     "ID": "wrld_07e9d737-8957-4ac6-9128-8d08c05c4fc9",
                     "Name": "実写合成ミュージアム-RealPhotoFusionMuseum",
@@ -1350,6 +1355,11 @@
                 {
                     "ID": "wrld_a231971b-3c5c-4a15-b620-0ab27625266a",
                     "Name": "Dracula's Castle",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_01b95334-95f0-4265-a11f-f91b15731ac4",
+                    "Name": "Tawawa Record タワワレコード V-Kitazawa",
                     "Description": ""
                 },
                 {
@@ -1501,7 +1511,7 @@
                     "Description": "沖縄本島中部にある鍾乳洞の再現ワールド。30万年の年月をかけて自然が創りあげた鍾乳洞は、総延長5000ｍ、鍾乳石数100万本以上を擁し、国内最大級の規模を誇る。"
                 },
                 {
-                    "ID": "wrld_b49c6ee2-c2e3-4dc6-bf09-3aaea66208b1",
+                    "ID": "wrld_99438e12-d8c6-4e61-9594-65a9162d95f6",
                     "Name": "Little World - Tokogrammetry Gallery",
                     "Description": "愛知県の博物館「リトルワールド」のフォトグラメトリ再現ワールド。世界各国の衣食住などの民俗文化を紹介する野外民族博物館。"
                 },
@@ -1556,6 +1566,11 @@
                     "ID": "wrld_ab96cfee-49ad-4a11-b5b8-0178d0907f9a",
                     "Name": "The Hallwyl Museum",
                     "Description": "スウェーデンのストックホルムにある博物館で、20世紀初頭のスウェーデン貴族、ホールヴィル夫妻の邸宅をそのまま公開している博物館。夫妻が集めた幅広いコレクションを所蔵している"
+                },
+                {
+                    "ID": "wrld_b49c6ee2-c2e3-4dc6-bf09-3aaea66208b1",
+                    "Name": "ンョ゛ハー ゛（ショッパーズ長浜店）",
+                    "Description": ""
                 },
                 {
                     "ID": "wrld_b88639b5-f224-41e1-bb50-64493953c7f8",
@@ -1775,6 +1790,11 @@
                 {
                     "ID": "wrld_ef71bbd0-a7f9-4a20-8045-acb65cef6f71",
                     "Name": "金の斧 銀の斧 （The golden axe）",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_c8d73706-7df8-461f-90ca-da0e07da8ecc",
+                    "Name": "Specularium",
                     "Description": ""
                 },
                 {
@@ -2639,8 +2659,8 @@
                     "Description": "路上ライブ用ワールド"
                 },
                 {
-                    "ID": "wrld_",
-                    "Name": "",
+                    "ID": "wrld_29027fbb-dbc2-4cde-8096-e2f739ba84b7",
+                    "Name": "「HAZUKI」日本語話者向け触れ合い広場",
                     "Description": ""
                 },
                 {
@@ -3037,8 +3057,8 @@
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_",
-                    "Name": "",
+                    "ID": "wrld_a0ca6745-dadc-4358-9d93-272af449a73e",
+                    "Name": "Danmazma9000",
                     "Description": ""
                 },
                 {
@@ -3137,9 +3157,9 @@
                     "Description": "第3回しまぱん集会会場"
                 },
                 {
-                    "ID": "wrld_",
-                    "Name": "",
-                    "Description": ""
+                    "ID": "wrld_cc383aab-21fe-4173-9273-03d7d4bdb24f",
+                    "Name": "Patchwork Shop",
+                    "Description": "アバター用モンスター育成ゲーム「パッチワークモンスター」のチュートリアルワールド＆技ショップ。"
                 },
                 {
                     "ID": "wrld_",
