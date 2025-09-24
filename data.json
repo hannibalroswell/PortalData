@@ -17,6 +17,39 @@
 
 
         {
+            "Category": "アップロードワールド",
+            "Worlds": [
+                {
+                    "ID": "wrld_49c714ea-67fb-468c-964a-c3e98eab3bfa",
+                    "Name": "Home01 MyHome",
+                    "Description": "自宅用ワールド オーシャンビュー"
+                },
+                {
+                    "ID": "wrld_31a7e7aa-e6ad-47c4-a171-48bb440f5313",
+                    "Name": "Home02 NPCHome",
+                    "Description": "(作成中)NPCワールド AvaterNPCシステム V睡ギミック(予定)"
+                },
+                {
+                    "ID": "wrld_1918c154-1452-49e4-a975-a69d2ce85d67",
+                    "Name": "Home03 Verification",
+                    "Description": "検証用ワールド ミラー 動画プレイヤー 各種情報ポスター"
+                },
+                {
+                    "ID": "wrld_8b23b625-4a45-482a-8359-657527844d80",
+                    "Name": "Home04 ",
+                    "Description": "(作成中)購入アバター設置ワールド"
+                },
+                {
+                    "ID": "wrld_afe0bcad-da64-41f6-974c-7b565b591200",
+                    "Name": "Home05 PortalWorld",
+                    "Description": "(制作終了)ポータル設置用ワールド PortalLibrary実装に伴い制作終了"
+                }
+            ]
+        },
+
+
+
+        {
             "Category": "ホームワールド",
             "Worlds": [
                 {
@@ -348,8 +381,8 @@
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_04062fa9-771b-4f5d-97fd-b7988db4122f",
-                    "Name": "湯けむりのコテージ",
+                    "ID": "wrld_",
+                    "Name": "",
                     "Description": ""
                 },
                 {
@@ -410,7 +443,6 @@
         {
             "Category": "ホームワールド(旅館・ホテル・飲食系)",
             "Worlds": [
-
                 {
                     "ID": "wrld_49a52af0-ecb1-469a-9e2e-b7217a625c4e",
                     "Name": "Luminous Hotel",
@@ -999,11 +1031,6 @@
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_5a350c04-8885-41b5-addd-173832a022ec",
-                    "Name": "路地裏学園",
-                    "Description": ""
-                },
-                {
                     "ID": "",
                     "Name": "",
                     "Description": ""
@@ -1068,6 +1095,11 @@
                     "Description": ""
                 },
                 {
+                    "ID": "wrld_5a350c04-8885-41b5-addd-173832a022ec",
+                    "Name": "路地裏学園",
+                    "Description": ""
+                },
+                {
                     "ID": "wwrld_bfaaaf96-9553-4248-9778-6c661d6bd2cd",
                     "Name": "Pool of Souls",
                     "Description": ""
@@ -1128,8 +1160,8 @@
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_aa870c2b-4599-4f3d-bdbe-f04983e0c108",
-                    "Name": "幽庵『竹籠』",
+                    "ID": "wrld_",
+                    "Name": "",
                     "Description": ""
                 },
                 {
@@ -1138,13 +1170,13 @@
                     "Description": ""
                 },
                 {
-                    "ID": "",
-                    "Name": "未設定",
+                    "ID": "wrld_",
+                    "Name": "",
                     "Description": ""
                 },
                 {
-                    "ID": "",
-                    "Name": "未設定",
+                    "ID": "wrld_",
+                    "Name": "",
                     "Description": ""
                 }
             ]
@@ -1232,11 +1264,6 @@
                     "Description": ""
                 },
 
-                {
-                    "ID": "wrld_aa79218d-57fd-4c8d-a5ee-79f4014047c0",
-                    "Name": "SoundLab",
-                    "Description": ""
-                },
                 {
                     "ID": "wrld_07e9d737-8957-4ac6-9128-8d08c05c4fc9",
                     "Name": "実写合成ミュージアム-RealPhotoFusionMuseum",
@@ -1355,11 +1382,6 @@
                 {
                     "ID": "wrld_a231971b-3c5c-4a15-b620-0ab27625266a",
                     "Name": "Dracula's Castle",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_01b95334-95f0-4265-a11f-f91b15731ac4",
-                    "Name": "Tawawa Record タワワレコード V-Kitazawa",
                     "Description": ""
                 },
                 {
@@ -1511,7 +1533,7 @@
                     "Description": "沖縄本島中部にある鍾乳洞の再現ワールド。30万年の年月をかけて自然が創りあげた鍾乳洞は、総延長5000ｍ、鍾乳石数100万本以上を擁し、国内最大級の規模を誇る。"
                 },
                 {
-                    "ID": "wrld_99438e12-d8c6-4e61-9594-65a9162d95f6",
+                    "ID": "wrld_b49c6ee2-c2e3-4dc6-bf09-3aaea66208b1",
                     "Name": "Little World - Tokogrammetry Gallery",
                     "Description": "愛知県の博物館「リトルワールド」のフォトグラメトリ再現ワールド。世界各国の衣食住などの民俗文化を紹介する野外民族博物館。"
                 },
@@ -1566,11 +1588,6 @@
                     "ID": "wrld_ab96cfee-49ad-4a11-b5b8-0178d0907f9a",
                     "Name": "The Hallwyl Museum",
                     "Description": "スウェーデンのストックホルムにある博物館で、20世紀初頭のスウェーデン貴族、ホールヴィル夫妻の邸宅をそのまま公開している博物館。夫妻が集めた幅広いコレクションを所蔵している"
-                },
-                {
-                    "ID": "wrld_b49c6ee2-c2e3-4dc6-bf09-3aaea66208b1",
-                    "Name": "ンョ゛ハー ゛（ショッパーズ長浜店）",
-                    "Description": ""
                 },
                 {
                     "ID": "wrld_b88639b5-f224-41e1-bb50-64493953c7f8",
@@ -1790,11 +1807,6 @@
                 {
                     "ID": "wrld_ef71bbd0-a7f9-4a20-8045-acb65cef6f71",
                     "Name": "金の斧 銀の斧 （The golden axe）",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_c8d73706-7df8-461f-90ca-da0e07da8ecc",
-                    "Name": "Specularium",
                     "Description": ""
                 },
                 {
@@ -2583,16 +2595,6 @@
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_1fab6c16-7c7a-4e5d-921e-d7a77d625b89",
-                    "Name": "【VRMV】サクラんBEATS",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_c7c96481-b753-4328-a3d6-c70b05d72532",
-                    "Name": "MANA's Particle Live ナンセンス文学",
-                    "Description": ""
-                },
-                {
                     "ID": "",
                     "Name": "未設定",
                     "Description": ""
@@ -2659,8 +2661,8 @@
                     "Description": "路上ライブ用ワールド"
                 },
                 {
-                    "ID": "wrld_29027fbb-dbc2-4cde-8096-e2f739ba84b7",
-                    "Name": "「HAZUKI」日本語話者向け触れ合い広場",
+                    "ID": "wrld_",
+                    "Name": "",
                     "Description": ""
                 },
                 {
@@ -2777,28 +2779,13 @@
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_972f24e5-99c7-4517-9dc0-a36ba5adfcd7",
-                    "Name": "NPC Cat toy - ねこじゃらし遊び",
+                    "ID": "",
+                    "Name": "",
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_b4c07475-eacc-45bd-a264-744701eeb717",
-                    "Name": "Situation Voice ＂唐揚げレシピ＂",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_75b20b83-acb3-419f-9516-0eba1e42618c",
-                    "Name": "Toothbrushing world～桔梗ちゃんと一緒に歯みがきをするワールド～",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_97359d51-2c3b-4a31-8268-6bcb94a5bedb",
-                    "Name": "for One",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_c228a732-4b7d-4d15-b9e2-99b4b594e719",
-                    "Name": "Rusk Run β",
+                    "ID": "",
+                    "Name": "",
                     "Description": ""
                 },
 
@@ -2811,48 +2798,43 @@
 
 
                 {
-                    "ID": "wrld_5a327175-1e9b-4788-a947-e9a0f058e965",
-                    "Name": "MAYA HOUSE",
+                    "ID": "",
+                    "Name": "",
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_1d15f57a-f384-4ad5-99a5-07c1072295f6",
-                    "Name": "巨大ティコちゃんのゆっくり大部屋 -Tycho's Big Relaxing Room-",
+                    "ID": "",
+                    "Name": "",
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_fcdb8748-84a9-4df1-ad5a-c1ef490f6491",
-                    "Name": "ラスクちゃんが我慢してるだけ",
+                    "ID": "",
+                    "Name": "",
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_3061e6b7-0e98-41d1-a54f-86edabd60f1f",
-                    "Name": "リアアリスさんたちと寝れるワールド",
+                    "ID": "",
+                    "Name": "",
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_8a3737fe-a5c8-45ed-ab5c-76f1b4a3885e",
-                    "Name": "The Blender～桔梗ちゃんにミキサーで粉々にされるワールド～",
+                    "ID": "",
+                    "Name": "",
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_3c4396ce-3654-4813-a89e-0be704b26b09",
-                    "Name": "体温計になってしなのちゃんの腋に挟まれるワールド",
+                    "ID": "",
+                    "Name": "",
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_3232176e-1582-4784-a5a6-976f1c17bd8e",
-                    "Name": "MANUKA HOUSE",
+                    "ID": "",
+                    "Name": "",
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_d58d2d99-89a2-4cf5-871b-69dcb903b9cf",
-                    "Name": "マヌカちゃんと添い寝（Sleep with Manuka chan）",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_573dc9e9-e332-44c4-ab68-d5b183cf3e51",
-                    "Name": "キプフェルがいるおうち",
+                    "ID": "",
+                    "Name": "",
                     "Description": ""
                 },
                 {
@@ -3057,8 +3039,8 @@
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_a0ca6745-dadc-4358-9d93-272af449a73e",
-                    "Name": "Danmazma9000",
+                    "ID": "wrld_",
+                    "Name": "",
                     "Description": ""
                 },
                 {
@@ -3157,9 +3139,9 @@
                     "Description": "第3回しまぱん集会会場"
                 },
                 {
-                    "ID": "wrld_cc383aab-21fe-4173-9273-03d7d4bdb24f",
-                    "Name": "Patchwork Shop",
-                    "Description": "アバター用モンスター育成ゲーム「パッチワークモンスター」のチュートリアルワールド＆技ショップ。"
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
                 },
                 {
                     "ID": "wrld_",
