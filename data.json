@@ -17,6 +17,39 @@
 
 
         {
+            "Category": "アップロードワールド",
+            "Worlds": [
+                {
+                    "ID": "wrld_49c714ea-67fb-468c-964a-c3e98eab3bfa",
+                    "Name": "Home01 MyHome",
+                    "Description": "自宅用ワールド オーシャンビュー"
+                },
+                {
+                    "ID": "wrld_31a7e7aa-e6ad-47c4-a171-48bb440f5313",
+                    "Name": "Home02 NPCHome",
+                    "Description": "(作成中)NPCワールド AvaterNPCシステム V睡ギミック(予定)"
+                },
+                {
+                    "ID": "wrld_1918c154-1452-49e4-a975-a69d2ce85d67",
+                    "Name": "Home03 Verification",
+                    "Description": "検証用ワールド ミラー 動画プレイヤー 各種情報ポスター"
+                },
+                {
+                    "ID": "wrld_8b23b625-4a45-482a-8359-657527844d80",
+                    "Name": "Home04 ",
+                    "Description": "(作成中)購入アバター設置ワールド"
+                },
+                {
+                    "ID": "wrld_afe0bcad-da64-41f6-974c-7b565b591200",
+                    "Name": "Home05 PortalWorld",
+                    "Description": "(制作終了)ポータル設置用ワールド PortalLibrary実装に伴い制作終了"
+                }
+            ]
+        },
+
+
+
+        {
             "Category": "ホームワールド",
             "Worlds": [
                 {
@@ -2777,11 +2810,6 @@
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_972f24e5-99c7-4517-9dc0-a36ba5adfcd7",
-                    "Name": "NPC Cat toy - ねこじゃらし遊び",
-                    "Description": ""
-                },
-                {
                     "ID": "wrld_b4c07475-eacc-45bd-a264-744701eeb717",
                     "Name": "Situation Voice ＂唐揚げレシピ＂",
                     "Description": ""
@@ -2794,6 +2822,11 @@
                 {
                     "ID": "wrld_97359d51-2c3b-4a31-8268-6bcb94a5bedb",
                     "Name": "for One",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_972f24e5-99c7-4517-9dc0-a36ba5adfcd7",
+                    "Name": "NPC Cat toy - ねこじゃらし遊び",
                     "Description": ""
                 },
                 {
@@ -2828,21 +2861,6 @@
                 {
                     "ID": "wrld_b4c07475-eacc-45bd-a264-744701eeb717",
                     "Name": "Situation Voice ＂唐揚げレシピ＂",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_75b20b83-acb3-419f-9516-0eba1e42618c",
-                    "Name": "Toothbrushing world～桔梗ちゃんと一緒に歯みがきをするワールド～",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_97359d51-2c3b-4a31-8268-6bcb94a5bedb",
-                    "Name": "for One",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_c228a732-4b7d-4d15-b9e2-99b4b594e719",
-                    "Name": "Rusk Run β",
                     "Description": ""
                 },
                 {
