@@ -25,9 +25,9 @@
                     "Description": "自宅用ワールド オーシャンビュー"
                 },
                 {
-                    "ID": "wrld_31a7e7aa-e6ad-47c4-a171-48bb440f5313",
-                    "Name": "Home02 NPCHome",
-                    "Description": "(作成中)NPCワールド AvaterNPCシステム V睡ギミック(予定)"
+                    "ID": "wrld_38443a25-302c-4c10-924b-db52a6907849",
+                    "Name": "Home02 UndergroundHome",
+                    "Description": "自宅用ワールド キッチン 寝室"
                 },
                 {
                     "ID": "wrld_1918c154-1452-49e4-a975-a69d2ce85d67",
@@ -40,8 +40,13 @@
                     "Description": "(作成中)購入アバター設置ワールド"
                 },
                 {
+                    "ID": "wrld_31a7e7aa-e6ad-47c4-a171-48bb440f5313",
+                    "Name": "Home05 NPCHome",
+                    "Description": "(作成中)NPCワールド AvaterNPCシステム V睡ギミック(予定)"
+                },
+                {
                     "ID": "wrld_afe0bcad-da64-41f6-974c-7b565b591200",
-                    "Name": "Home05 PortalWorld",
+                    "Name": "Home06 PortalWorld",
                     "Description": "(制作終了)ポータル設置用ワールド PortalLibrary実装に伴い制作終了"
                 }
             ]
@@ -58,11 +63,6 @@
                     "Description": "王道チルワ。使い勝手が良く居心地◎。ポリゴンローディングあり。"
                 },
                 {
-                    "ID": "wrld_a1c1d9a3-d8ea-4852-a8f5-5c72f0b98653",
-                    "Name": "メゾン荘 201号室",
-                    "Description": "日本のアパートの一室を再現。"
-                },
-                {
                     "ID": "wrld_21fdba2e-c8c7-4f15-b5c7-091b7441659c",
                     "Name": "雨と君の寝息に耳をそばだてた。- A Quiet Rain and You -",
                     "Description": "雨の音に拘りを感じるワールド。他のチルワではあまり見ないギミックあり。"
@@ -73,28 +73,46 @@
                     "Description": "幼稚園児になれるワールド。お昼寝部屋、紙芝居や積み木、子供用トイレあり。"
                 },
                 {
-                    "ID": "wrld_05a179cd-bda9-464f-bf91-3597cfa6e27f",
-                    "Name": "お風呂のある部屋 YUTOROOM -ゆとるーむ-",
-                    "Description": ""
-                },
-                {
                     "ID": "wrld_e7804a7e-9e09-4ec9-bada-2470d89ca0ef",
                     "Name": "東雲風船 - SHINONOME BALLOON -",
                     "Description": ""
                 },
-
-
-
                 {
-                    "ID": "wrld_41e4eb69-33e2-438f-9462-00ec2c72a146",
-                    "Name": "Sea Breeze",
-                    "Description": "海の上でリラックスできるチルワールド"
-                },
-                {
-                    "ID": "wrld_0555ef76-33f2-46d4-befb-9b0b6b5c2e54",
-                    "Name": "city rain",
+                    "ID": "wrld_e8db4bf4-9da9-4dd4-9dc3-1cd56820f038",
+                    "Name": "Tiharuum - ちはるーむ",
                     "Description": ""
                 },
+                {
+                    "ID": "wrld_9b0129ef-819c-44eb-86e6-01014c759ff3",
+                    "Name": "Tranquil Penthouse",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_c70b4944-7474-44c8-ac5b-ca9ad805b6dd",
+                    "Name": "Azuma House",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_20522f38-a6d8-4561-a6fe-518cd8f3b947",
+                    "Name": "ceramic shelter［new life］",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_59e089b3-c0d9-4592-afcd-590ebe55d398",
+                    "Name": "Pixel Paradise Arcade",
+                    "Description": "ゲームセンター"
+                },
+
+
+
+                {
+                    "ID": "",
+                    "Name": "",
+                    "Description": ""
+                },
+
+
+
                 {
                     "ID": "wrld_1d638943-9cea-44f3-b975-6c2b6f73bbbd",
                     "Name": "Nocturnadia",
@@ -103,11 +121,6 @@
                 {
                     "ID": "world/wrld_4e5b0738-c343-4707-843a-955fa8d3ed1a",
                     "Name": "Metro Heights",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_e8db4bf4-9da9-4dd4-9dc3-1cd56820f038",
-                    "Name": "Tiharuum - ちはるーむ",
                     "Description": ""
                 },
                 {
@@ -126,63 +139,18 @@
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_9b0129ef-819c-44eb-86e6-01014c759ff3",
-                    "Name": "Tranquil Penthouse",
-                    "Description": ""
-                },
-                {
                     "ID": "wrld_388b774d-a0f4-4225-902c-339c39385cbe",
                     "Name": "暮相の入り江-kureai-",
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_83eeee9e-d42a-49b3-82f1-d5518a3c21b0",
-                    "Name": "情報に溺れるための部屋（改）",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_266523e8-9161-40da-acd0-6bd82e075833",
-                    "Name": "Popcorn Palace",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_78b2f1fe-622d-4556-8401-aa90921b31c1",
-                    "Name": "Nest ネスト",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_0c3caeaa-7224-4800-aa64-bc473ccb18a2",
-                    "Name": "Starlight lane",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_8df25158-dc70-4e39-a64f-b26ecefd21eb",
-                    "Name": "WaRoom",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_f2a141e2-c7a7-462d-b2ba-321d21b0d261",
-                    "Name": "Kazahana Peak 雪の嵐",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_417f8500-f629-4061-abf4-5cab7d27db6f",
-                    "Name": "家賃23万円の部屋",
-                    "Description": ""
-                },
-                {
                     "ID": "wrld_716d8d2b-a3d7-4b3a-96fe-c1919c119f8e",
                     "Name": "The Blue Marble",
-                    "Description": ""
+                    "Description": "宇宙"
                 },
                 {
                     "ID": "wrld_c9d4cb1d-aa52-495c-8625-a2436de813fc",
                     "Name": "Sunrise",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_25a96d9b-513c-4a25-b11c-ca83f8962eee",
-                    "Name": "ふゆのぬくもり - Warm Winter",
                     "Description": ""
                 },
                 {
@@ -201,29 +169,9 @@
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_726a2222-aee7-4b59-bbe0-a6afb1df01da",
-                    "Name": "After Glow",
-                    "Description": ""
-                },
-                {
                     "ID": "wrld_a025d6e6-f2b1-45ff-b20a-9585bd7e0793",
                     "Name": "山育ちは海が見たい",
                     "Description": ""
-                },
-                {
-                    "ID": "wrld_330909c1-edca-4e1c-93c8-5bb9a352da38",
-                    "Name": "Endless",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_3e0903d9-7572-4530-a96c-cea251992062",
-                    "Name": "ATTO HOME -Usual-",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_02c8ac42-7b6c-4dd1-8a3d-1d12d20cd148",
-                    "Name": "星降る丘に芽吹くは、忘れられし世界樹 -Forgotten Yggdrasil on the Starry Hill-",
-                    "Description": "空から落ちてくる星屑を集めて世界樹を成長されるワールド。"
                 },
                 {
                     "ID": "wrld_8be86467-e58c-49d6-979c-5631983ba599",
@@ -243,12 +191,7 @@
                 {
                     "ID": "wrld_65bc1111-7eef-47e0-bede-bd14973091c3",
                     "Name": "Rainfall Abyss -Flood Sector-",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_20522f38-a6d8-4561-a6fe-518cd8f3b947",
-                    "Name": "ceramic shelter［new life］",
-                    "Description": ""
+                    "Description": "地下排水路"
                 },
                 {
                     "ID": "wrld_b92b44e1-bd57-4100-9d49-c6eaee90c7de",
@@ -266,83 +209,8 @@
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_0620fa55-6ede-425c-9d72-f6f7dc8c2b16",
-                    "Name": "渚の夕凪、潮騒の家",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_2556cfdb-3266-46fc-992d-5587867cd5a8",
-                    "Name": "青色微炭酸-blue soda-",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_",
-                    "Name": "クリエイター：~Sam",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_1e0e3667-af03-4ce2-9399-30014a109c48",
-                    "Name": "Cozy Calm",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_58b24425-a355-45d0-be76-9483c4f6fbae",
-                    "Name": "Cozy Apartment",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_518e82d9-8ecd-4a63-b126-6996093888a0",
-                    "Name": "Cozy Cottage",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_ec5552f2-92e7-4849-8bd8-0b3c6aad4fef",
-                    "Name": "Palm Point",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_36117d86-d759-4b9c-962e-eb25c8caebdf",
-                    "Name": "Sunset Bay",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_",
-                    "Name": "",
-                    "Description": ""
-                },
-                {
                     "ID": "wrld_4b30d0b6-d5b6-4c11-a737-addb3825c7f9",
                     "Name": "BOTANICA",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_21fdba2e-c8c7-4f15-b5c7-091b7441659c/",
-                    "Name": "雨と君の寝息に耳をそばだてた。- A Quiet Rain and You -",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_9b0129ef-819c-44eb-86e6-01014c759ff3",
-                    "Name": "Tranquil Penthouse",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_8dd418ec-8258-4d6b-afc5-c83c938b74c1",
-                    "Name": "SANATORIUM",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_424e4033-db3d-4817-b081-8a16e41708c5",
-                    "Name": "ハイム荘 401号室",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_c70b4944-7474-44c8-ac5b-ca9ad805b6dd",
-                    "Name": "Azuma House",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_f1e15ed4-1844-4b67-9636-497880a4dbf7",
-                    "Name": "Hanami Onsen",
                     "Description": ""
                 },
                 {
@@ -356,28 +224,8 @@
                     "Description": "By Ruru_sound"
                 },
                 {
-                    "ID": "wrld_ef76b2bf-3259-4e06-8bd8-71431c84c613",
-                    "Name": "Maldives Cottage - Daytime",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_bce23d07-7e19-4018-8652-34fa30b7308b",
-                    "Name": "Kitsunebi Teahouse ˸˸˸ 狐火茶屋",
-                    "Description": ""
-                },
-                {
                     "ID": "wrld_93efcff4-1cb4-4f2c-96bb-5eafb5993275",
                     "Name": "Archipelago ｜ アーキペラゴー",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_59e089b3-c0d9-4592-afcd-590ebe55d398",
-                    "Name": "Pixel Paradise Arcade",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_eea92678-fd49-4228-9fb3-fb24a70e04b3",
-                    "Name": "-yuuri-ひのかげキャンプ場",
                     "Description": ""
                 },
                 {
@@ -386,53 +234,18 @@
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_",
-                    "Name": "",
+                    "ID": "wrld_d4cbf224-21ce-4482-bb0c-1e9885a9958a",
+                    "Name": "the colony - flat 804",
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_",
-                    "Name": "",
+                    "ID": "",
+                    "Name": "未設定",
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_",
-                    "Name": "",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_",
-                    "Name": "",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_",
-                    "Name": "",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_",
-                    "Name": "",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_",
-                    "Name": "",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_",
-                    "Name": "",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_",
-                    "Name": "",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_",
-                    "Name": "",
+                    "ID": "",
+                    "Name": "未設定",
                     "Description": ""
                 }
             ]
@@ -441,9 +254,156 @@
 
 
         {
-            "Category": "ホームワールド(旅館・ホテル・飲食系)",
+            "Category": "ホームワールド(旅館・和風・日本)",
             "Worlds": [
+                {
+                    "ID": "wrld_a1c1d9a3-d8ea-4852-a8f5-5c72f0b98653",
+                    "Name": "メゾン荘 201号室",
+                    "Description": "日本のアパートの一室を再現。"
+                },
+                {
+                    "ID": "wrld_aaeef9ec-c42e-4b95-870d-22bbc11a97aa",
+                    "Name": "超懐郷の秋澄む処 -Nostalgic Autumn Riverside 2024-",
+                    "Description": "秋の旅館ワールド。紅葉が一望できる露天風呂がイチオシ。"
+                },
+                {
+                    "ID": "wrld_eddae68e-ecfd-4560-95df-d7334a0ae2b3",
+                    "Name": "遠郷の冬めく夜 -Nostalgic Winter Night-",
+                    "Description": "温泉旅館のワールド。雪を眺めながらリラックス気分。"
+                },
+                {
+                    "ID": "wrld_05a179cd-bda9-464f-bf91-3597cfa6e27f",
+                    "Name": "お風呂のある部屋 YUTOROOM -ゆとるーむ-",
+                    "Description": ""
+                },
 
+
+
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+
+
+
+                {
+                    "ID": "wrld_424e4033-db3d-4817-b081-8a16e41708c5",
+                    "Name": "ハイム荘 401号室",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_bce23d07-7e19-4018-8652-34fa30b7308b",
+                    "Name": "Kitsunebi Teahouse ˸˸˸ 狐火茶屋",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_8df25158-dc70-4e39-a64f-b26ecefd21eb",
+                    "Name": "WaRoom",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_f1e15ed4-1844-4b67-9636-497880a4dbf7",
+                    "Name": "Hanami Onsen",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_3e0903d9-7572-4530-a96c-cea251992062",
+                    "Name": "ATTO HOME -Usual-",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_417f8500-f629-4061-abf4-5cab7d27db6f",
+                    "Name": "家賃23万円の部屋",
+                    "Description": "日本"
+                },
+                {
+                    "ID": "wrld_25a96d9b-513c-4a25-b11c-ca83f8962eee",
+                    "Name": "ふゆのぬくもり - Warm Winter",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_f2a141e2-c7a7-462d-b2ba-321d21b0d261",
+                    "Name": "Kazahana Peak 雪の嵐",
+                    "Description": "雪"
+                },
+                {
+                    "ID": "",
+                    "Name": "未設定",
+                    "Description": ""
+                },
+                {
+                    "ID": "",
+                    "Name": "未設定",
+                    "Description": ""
+                }
+            ]
+        },
+
+
+
+        {
+            "Category": "ホームワールド(夏)",
+            "Worlds": [
+                {
+                    "ID": "wrld_ef76b2bf-3259-4e06-8bd8-71431c84c613",
+                    "Name": "Maldives Cottage - Daytime",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_0620fa55-6ede-425c-9d72-f6f7dc8c2b16",
+                    "Name": "渚の夕凪、潮騒の家",
+                    "Description": ""
+                },
+
+
+
+                {
+                    "ID": "wrld_",
+                    "Name": "",
+                    "Description": ""
+                },
+
+
+
+                {
+                    "ID": "wrld_eea92678-fd49-4228-9fb3-fb24a70e04b3",
+                    "Name": "-yuuri-ひのかげキャンプ場",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_41e4eb69-33e2-438f-9462-00ec2c72a146",
+                    "Name": "Sea Breeze",
+                    "Description": "海の上でリラックスできるチルワールド"
+                },
+                {
+                    "ID": "wrld_2556cfdb-3266-46fc-992d-5587867cd5a8",
+                    "Name": "青色微炭酸-blue soda-",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_330909c1-edca-4e1c-93c8-5bb9a352da38",
+                    "Name": "Endless",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "未設定",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_",
+                    "Name": "未設定",
+                    "Description": ""
+                }
+            ]
+        },
+
+
+
+        {
+            "Category": "ホームワールド(ホテル・飲食店)",
+            "Worlds": [
                 {
                     "ID": "wrld_49a52af0-ecb1-469a-9e2e-b7217a625c4e",
                     "Name": "Luminous Hotel",
@@ -460,26 +420,6 @@
                     "Description": "ルミナスホテル系列のバー。ワールド販売あり。"
                 },
                 {
-                    "ID": "wrld_aaeef9ec-c42e-4b95-870d-22bbc11a97aa",
-                    "Name": "超懐郷の秋澄む処 -Nostalgic Autumn Riverside 2024-",
-                    "Description": "秋の旅館ワールド。紅葉が一望できる露天風呂がイチオシ。"
-                },
-                {
-                    "ID": "wrld_eddae68e-ecfd-4560-95df-d7334a0ae2b3",
-                    "Name": "遠郷の冬めく夜 -Nostalgic Winter Night-",
-                    "Description": "温泉旅館のワールド。雪を眺めながらリラックス気分。"
-                },
-                {
-                    "ID": "wrld_080198c1-caab-460d-8c94-6f77628ca2c6",
-                    "Name": "バーチャル居酒屋「がやがや」",
-                    "Description": "カテゴリ検討中。居酒屋ワールド。定期的にイベントも開催されている。"
-                },
-                {
-                    "ID": "wrld_7dd281ca-1472-4735-8fd3-e0a27c190598",
-                    "Name": "敗北居酒屋かがさき - Japanese Izakaya Kagasaki",
-                    "Description": "カテゴリ検討中。居酒屋ワールド。"
-                },
-                {
                     "ID": "wrld_8dd418ec-8258-4d6b-afc5-c83c938b74c1",
                     "Name": "SANATORIUM",
                     "Description": "喫茶店ワールド。室内もさることながら外の景色が◎"
@@ -493,12 +433,7 @@
 
 
                 {
-                    "ID": "wrld_",
-                    "Name": "",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_",
+                    "ID": "",
                     "Name": "",
                     "Description": ""
                 },
@@ -511,78 +446,13 @@
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_",
-                    "Name": "",
+                    "ID": "",
+                    "Name": "未設定",
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_",
-                    "Name": "",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_",
-                    "Name": "",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_",
-                    "Name": "",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_",
-                    "Name": "",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_",
-                    "Name": "",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_",
-                    "Name": "",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_",
-                    "Name": "",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_",
-                    "Name": "",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_",
-                    "Name": "",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_",
-                    "Name": "",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_",
-                    "Name": "",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_",
-                    "Name": "",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_",
-                    "Name": "",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_",
-                    "Name": "",
+                    "ID": "",
+                    "Name": "未設定",
                     "Description": ""
                 }
             ]
@@ -591,25 +461,7 @@
 
 
         {
-            "Category": "保存テンプレ",
-            "Worlds": [
-                {
-                    "ID": "",
-                    "Name": "",
-                    "Description": ""
-                },
-                {
-                    "ID": "",
-                    "Name": "",
-                    "Description": ""
-                }
-            ]
-        },
-
-
-
-        {
-            "Category": "エモワールド",
+            "Category": "エモワールド 未整理",
             "Worlds": [
                 {
                     "ID": "wrld_ee5541a9-0788-43e1-a86d-bad30e218246",
@@ -929,7 +781,7 @@
 
 
         {
-            "Category": "写真撮影",
+            "Category": "写真撮影 未整理",
             "Worlds": [
                 {
                     "ID": "wrld_2e6867b9-0c78-43ec-8bd5-77aacd751ecd",
@@ -1096,11 +948,6 @@
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_af46b672-1ade-4de9-b4b1-a86f7b79ee90",
-                    "Name": "波打ち際と",
-                    "Description": ""
-                },
-                {
                     "ID": "wwrld_bfaaaf96-9553-4248-9778-6c661d6bd2cd",
                     "Name": "Pool of Souls",
                     "Description": ""
@@ -1166,9 +1013,9 @@
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_",
-                    "Name": "",
-                    "Description": ""
+                    "ID": "wrld_415ef912-5150-4808-b1ea-4f8ce2432045",
+                    "Name": "おまいり Omairi",
+                    "Description": "海辺の神社 夜"
                 },
                 {
                     "ID": "",
@@ -1186,7 +1033,7 @@
 
 
         {
-            "Category": "展示系",
+            "Category": "展示系 未整理",
             "Worlds": [
                 {
                     "ID": "wrld_b5ed19cb-cf04-481c-833a-9833138ff668",
@@ -1201,12 +1048,17 @@
                 {
                     "ID": "wrld_dae998ae-ae72-456a-b228-980b0e0775e0",
                     "Name": "Exhibition˸ The day before the Summer begins․",
-                    "Description": "プロジェクトサマーフレアの展示店"
+                    "Description": "プロジェクトサマーフレアの展示ワールド"
                 },
                 {
                     "ID": "wrld_b76b1eb2-2346-4c61-9c8d-96b144f5c706",
                     "Name": "VRC PIXELART EXHIBITION",
                     "Description": "総勢64名のピクセルアーティストによる作品を集めた合同展示会場。"
+                },
+                {
+                    "ID": "wrld_ab2c1526-c1b1-419d-b138-be32591e799f",
+                    "Name": "VRC PIXELART EXHIBITION 2.0",
+                    "Description": "ピクセルアーティストによる作品を集めた合同展示会第二弾。"
                 },
                 {
                     "ID": "wrld_7d475a04-ffc9-4283-b0d7-0a6825bfa0ce",
@@ -1380,16 +1232,8 @@
                     "Name": "exhibition ⁄ back seeing",
                     "Description": ""
                 },
-                {
-                    "ID": "wrld_d4cbf224-21ce-4482-bb0c-1e9885a9958a",
-                    "Name": "the colony - flat 804",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_a231971b-3c5c-4a15-b620-0ab27625266a",
-                    "Name": "Dracula's Castle",
-                    "Description": ""
-                },
+
+
                 {
                     "ID": "wrld_01b95334-95f0-4265-a11f-f91b15731ac4",
                     "Name": "Tawawa Record タワワレコード V-Kitazawa",
@@ -1411,7 +1255,7 @@
 
 
         {
-            "Category": "現実再現 整理済",
+            "Category": "現実再現",
             "Worlds": [
                 {
                     "ID": "wrld_1247aa9a-a86a-42ff-b1a4-7a8055424a50",
@@ -1442,6 +1286,11 @@
                     "ID": "wrld_fb3a4473-b57a-461b-a584-bed7181c61da",
                     "Name": "バーチャルすき家（非公式）",
                     "Description": "すき家の再現ワールド。店内再現度が高い。"
+                },
+                {
+                    "ID": "wrld_264bf6d0-3e5e-4d07-a25c-ba47f5336ea3",
+                    "Name": "バーチャルサイゼリヤ（非公式）",
+                    "Description": "サイゼリヤの再現ワールド。店内再現度が高い。"
                 },
 
                 {
@@ -1531,7 +1380,7 @@
 
 
         {
-            "Category": "現実再現(フォトグラメトリ) 整理済",
+            "Category": "現実再現(フォトグラメトリ)",
             "Worlds": [
                 {
                     "ID": "wrld_8551a443-77a6-4140-bd3e-a78a36de73b6",
@@ -1651,7 +1500,7 @@
 
 
         {
-            "Category": "アニメ・ゲーム・映画再現 整理済",
+            "Category": "アニメ・ゲーム・映画再現",
             "Worlds": [
                 {
                     "ID": "wrld_df5143d7-c649-45cc-a093-5f99adb05312",
@@ -1753,7 +1602,7 @@
 
 
         {
-            "Category": "ストーリー 整理済",
+            "Category": "ストーリー",
             "Worlds": [
                 {
                     "ID": "wrld_aa762efb-17b3-4302-8f41-09c4db2489ed",
@@ -1846,7 +1695,7 @@
 
 
         {
-            "Category": "ゲームワールド",
+            "Category": "ゲームワールド 未整理",
             "Worlds": [
                 {
                     "ID": "wrld_4e8f3e44-dca9-4ae7-9580-954bb4b2cbc4",
@@ -1985,6 +1834,11 @@
                     "Description": ""
                 },
 
+                {
+                    "ID": "wrld_02c8ac42-7b6c-4dd1-8a3d-1d12d20cd148",
+                    "Name": "星降る丘に芽吹くは、忘れられし世界樹 -Forgotten Yggdrasil on the Starry Hill-",
+                    "Description": "空から落ちてくる星屑を集めて世界樹を成長されるワールド。"
+                },
                 {
                     "ID": "wrld_236bb7cd-dca2-44a2-9542-3b965e15d37d",
                     "Name": "RESONARK 4 ELVES Pt․1",
@@ -2276,7 +2130,7 @@
 
 
         {
-            "Category": "オープンワールド",
+            "Category": "オープンワールド 未整理",
             "Worlds": [
                 {
                     "ID": "wrld_9a3e7956-2997-40fb-93ba-f04204cdc763",
@@ -2345,7 +2199,11 @@
                     "Name": "Tokyo Mood by BEAMS",
                     "Description": "ファッションブランド「BEAMS」の公式ワールド。実際に販売されている服以外にも、作りこまれた街並みや期間限定イベント等も。"
                 },
-
+                {
+                    "ID": "wrld_726a2222-aee7-4b59-bbe0-a6afb1df01da",
+                    "Name": "After Glow",
+                    "Description": "SF"
+                },
 
 
 
@@ -2362,6 +2220,12 @@
                 },
 
 
+
+                {
+                    "ID": "wrld_a231971b-3c5c-4a15-b620-0ab27625266a",
+                    "Name": "Dracula's Castle",
+                    "Description": ""
+                },
                 {
                     "ID": "wrld_6a1e6329-17a8-428f-b4bf-4d7668998473",
                     "Name": "Kawanaka-cho Dining room Herabuna 川中街 大衆食堂へらぶな",
@@ -2564,7 +2428,7 @@
 
 
         {
-            "Category": "パーティクルライブ・アトラクション 整理済",
+            "Category": "パーティクルライブ・アトラクション",
             "Worlds": [
                 {
                     "ID": "wrld_8bbb6f61-61cf-4243-a58e-2000f2740e2b",
@@ -2641,7 +2505,7 @@
 
 
         {
-            "Category": "交流系 整理済",
+            "Category": "交流系",
             "Worlds": [
                 {
                     "ID": "wrld_1b94e327-036b-4d09-81be-e898d71f02cb",
@@ -2679,12 +2543,12 @@
                 {
                     "ID": "wrld_7dd281ca-1472-4735-8fd3-e0a27c190598",
                     "Name": "敗北居酒屋かがさき - Japanese Izakaya Kagasaki",
-                    "Description": ""
+                    "Description": "カテゴリ検討中。居酒屋ワールド。"
                 },
                 {
                     "ID": "wrld_080198c1-caab-460d-8c94-6f77628ca2c6",
                     "Name": "バーチャル居酒屋「がやがや」",
-                    "Description": ""
+                    "Description": "カテゴリ検討中。居酒屋ワールド。定期的にイベントも開催されている。"
                 },
                 {
                     "ID": "wrld_9ba9fd77-31c7-432a-bcb4-8983bec75ef8",
@@ -2697,8 +2561,8 @@
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_",
-                    "Name": "",
+                    "ID": "wrld_266523e8-9161-40da-acd0-6bd82e075833",
+                    "Name": "Popcorn Palace",
                     "Description": ""
                 },
                 {
@@ -2717,7 +2581,7 @@
 
 
         {
-            "Category": "ポータル 整理済",
+            "Category": "ポータル",
             "Worlds": [
                 {
                     "ID": "wrld_e4998032-8505-403e-817a-76bcc5af6816",
@@ -2764,7 +2628,7 @@
 
 
         {
-            "Category": "イベント 整理済",
+            "Category": "イベント",
             "Worlds": [
                 {
                     "ID": "wrld_7d9b5fe6-0d0e-4e93-8487-45f9d46782ef",
@@ -2802,7 +2666,7 @@
 
 
         {
-            "Category": "NPC 整理済",
+            "Category": "NPC",
             "Worlds": [
                 {
                     "ID": "wrld_7769823d-efeb-415c-8570-2b22942fd662",
@@ -2904,7 +2768,7 @@
 
 
         {
-            "Category": "調整・改変・確認 整理済",
+            "Category": "調整・改変・確認",
             "Worlds": [
                 {
                     "ID": "wrld_96460268-8c89-438f-b8f2-2ea2f1ed1ce7",
@@ -2946,8 +2810,8 @@
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_",
-                    "Name": "",
+                    "ID": "wrld_83eeee9e-d42a-49b3-82f1-d5518a3c21b0",
+                    "Name": "情報に溺れるための部屋（改）",
                     "Description": ""
                 },
                 {
@@ -2966,7 +2830,7 @@
 
 
         {
-            "Category": "アバター・サンプル展示 整理済",
+            "Category": "アバター・サンプル展示",
             "Worlds": [
                 {
                     "ID": "wrld_5da8116b-1fc7-4197-a0b6-09a231e93a66",
@@ -3033,7 +2897,7 @@
 
 
         {
-            "Category": "ホラー 整理済",
+            "Category": "ホラー",
             "Worlds": [
                 {
                     "ID": "wrld_a87e7c31-2da8-451e-a79e-b1de72d53f9c",
@@ -3125,31 +2989,64 @@
 
 
         {
-            "Category": "クリエイター",
+            "Category": "クリエイター 未整理",
             "Worlds": [
                 {
                     "ID": "",
                     "Name": "",
                     "Description": "クリエイター：Fins"
                 },
+
+                {
+                    "ID": "wrld_",
+                    "Name": "クリエイター：~Sam",
+                    "Description": "チルワールド"
+                },
+                {
+                    "ID": "wrld_1e0e3667-af03-4ce2-9399-30014a109c48",
+                    "Name": "Cozy Calm",
+                    "Description": "チルワールド"
+                },
+                {
+                    "ID": "wrld_58b24425-a355-45d0-be76-9483c4f6fbae",
+                    "Name": "Cozy Apartment",
+                    "Description": "チルワールド"
+                },
+                {
+                    "ID": "wrld_518e82d9-8ecd-4a63-b126-6996093888a0",
+                    "Name": "Cozy Cottage",
+                    "Description": "チルワールド"
+                },
+                {
+                    "ID": "wrld_ec5552f2-92e7-4849-8bd8-0b3c6aad4fef",
+                    "Name": "Palm Point",
+                    "Description": "チルワールド"
+                },
+                {
+                    "ID": "wrld_36117d86-d759-4b9c-962e-eb25c8caebdf",
+                    "Name": "Sunset Bay",
+                    "Description": "チルワールド"
+                },
+
                 {
                     "ID": "",
-                    "Name": "",
-                    "Description": "クリエイター：Fins"
+                    "Name": "クリエイター：オーゼンOzen",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_0555ef76-33f2-46d4-befb-9b0b6b5c2e54",
+                    "Name": "city rain",
+                    "Description": "チルワールド"
+                },
+
+                {
+                    "ID": "",
+                    "Name": "未設定",
+                    "Description": ""
                 },
                 {
                     "ID": "",
-                    "Name": "",
-                    "Description": "クリエイター：Fins"
-                },
-                {
-                    "ID": "",
-                    "Name": "",
-                    "Description": "クリエイター：Fins"
-                },
-                {
-                    "ID": "",
-                    "Name": "",
+                    "Name": "未設定",
                     "Description": ""
                 }
             ]
@@ -3158,7 +3055,7 @@
 
 
         {
-            "Category": "その他 整理済",
+            "Category": "その他",
             "Worlds": [
                 {
                     "ID": "wrld_af46b672-1ade-4de9-b4b1-a86f7b79ee90",
