@@ -1055,6 +1055,11 @@
                     "Description": ""
                 },
                 {
+                    "ID": "wrld_97a73d37-6d57-4989-b9ce-50e8b9e85e88",
+                    "Name": "いつかの終末",
+                    "Description": "終末世界。海の上の荒廃したビルのワールド"
+                },
+                {
                     "ID": "",
                     "Name": "未設定",
                     "Description": ""
@@ -3047,6 +3052,11 @@
                     "Description": ""
                 },
                 {
+                    "ID": "wrld_b01426e5-34ce-461b-9c78-0aaddcda561d",
+                    "Name": "FLASTORE Avatars",
+                    "Description": ""
+                },
+                {
                     "ID": "",
                     "Name": "未設定",
                     "Description": ""
@@ -3257,8 +3267,18 @@
                     "Description": "アバター用モンスター育成ゲーム「パッチワークモンスター」のチュートリアルワールド＆技ショップ。"
                 },
                 {
-                    "ID": "wrld_",
-                    "Name": "",
+                    "ID": "wrld_b620747e-48c2-48f7-ba9c-b20ce65c0e52",
+                    "Name": "Avatar Macchiato",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_6ca1a41d-ac9e-4720-be6f-63fbcc95f65d",
+                    "Name": "Sanrio Vfes2024 Trial キヌ",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_e2d95143-3de0-406c-a25e-9a18ea124cdc",
+                    "Name": "Shinano Meeting",
                     "Description": ""
                 },
                 {
