@@ -20,24 +20,24 @@
             "Category": "アップロードワールド",
             "Worlds": [
                 {
+                    "ID": "wrld_1918c154-1452-49e4-a975-a69d2ce85d67",
+                    "Name": "Home01 Verification",
+                    "Description": "検証用ワールド ミラー 動画プレイヤー 情報ポスター"
+                },
+                {
                     "ID": "wrld_49c714ea-67fb-468c-964a-c3e98eab3bfa",
-                    "Name": "Home01 MyHome",
-                    "Description": "自宅用ワールド オーシャンビュー"
+                    "Name": "Home02 OceanViewHome",
+                    "Description": "自宅ワールド フォトアルバム ビリヤード"
                 },
                 {
                     "ID": "wrld_38443a25-302c-4c10-924b-db52a6907849",
-                    "Name": "Home02 UndergroundHome",
-                    "Description": "自宅用ワールド キッチン 寝室"
-                },
-                {
-                    "ID": "wrld_1918c154-1452-49e4-a975-a69d2ce85d67",
-                    "Name": "Home03 Verification",
-                    "Description": "検証用ワールド ミラー 動画プレイヤー 各種情報ポスター"
+                    "Name": "Home03 UndergroundHome",
+                    "Description": "自宅ワールド キッチン 寝室"
                 },
                 {
                     "ID": "wrld_8b23b625-4a45-482a-8359-657527844d80",
-                    "Name": "Home04 ",
-                    "Description": "(作成中)購入アバター設置ワールド"
+                    "Name": "Home04 AvaterHome",
+                    "Description": "購入アバター設置ワールド"
                 },
                 {
                     "ID": "wrld_31a7e7aa-e6ad-47c4-a171-48bb440f5313",
@@ -45,8 +45,13 @@
                     "Description": "(作成中)NPCワールド AvaterNPCシステム V睡ギミック(予定)"
                 },
                 {
+                    "ID": "wrld_482ba986-b9ae-443c-b864-6d080d7bf198",
+                    "Name": "Home06 EuropianHouse",
+                    "Description": "(作成中)"
+                },
+                {
                     "ID": "wrld_afe0bcad-da64-41f6-974c-7b565b591200",
-                    "Name": "Home06 PortalWorld",
+                    "Name": "Home07 PortalWorld",
                     "Description": "(制作終了)ポータル設置用ワールド PortalLibrary実装に伴い制作終了"
                 }
             ]
