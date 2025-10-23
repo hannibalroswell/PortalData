@@ -255,13 +255,13 @@
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_8d740b03-93a4-4153-99de-9fd67d86d4ae",
-                    "Name": "Sunset Retreat",
+                    "ID": "wrld_06ee2960-6cac-43e0-a52f-d7d9efcdc9a2",
+                    "Name": "赤根新町公園前通り - Red Root District",
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_06ee2960-6cac-43e0-a52f-d7d9efcdc9a2",
-                    "Name": "赤根新町公園前通り - Red Root District",
+                    "ID": "wrld_d29bb0d0-d268-42dc-8365-926f9d485505",
+                    "Name": "Midnight Rooftop",
                     "Description": ""
                 },
                 {
@@ -530,261 +530,7 @@
 
 
         {
-            "Category": "エモワールド",
-            "Worlds": [
-                {
-                    "ID": "wrld_ee5541a9-0788-43e1-a86d-bad30e218246",
-                    "Name": "開けない夜ーAn unilluminated night",
-                    "Description": "夜の屋上で夜空が見れるワールド。パーティクルと音楽の組み合わせがとても綺麗で◎"
-                },
-                {
-                    "ID": "wrld_48f70688-a7a8-4252-b695-e891f845a129",
-                    "Name": "時の残響－Echoes of Time",
-                    "Description": "どこかの廃墟のワールド。水や揺れるカーテンの表現がとても◎"
-                },
-                {
-                    "ID": "wrld_a7464c28-ebaf-4463-994e-4e13f6144a0f",
-                    "Name": "消えたあなたと‚ 止まっている春が-Spring and you",
-                    "Description": "部屋の中央にキャンバスだけが残されたワールド。カーテンからの風の表現がとても綺麗。"
-                },
-                {
-                    "ID": "wrld_302d5b48-810d-4d65-bb08-8dfd629cba56",
-                    "Name": "夏宙の休息地 -Summer Starrysky Rest-",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_84f03063-6013-43f6-a827-995a512a617e",
-                    "Name": "春空の休息地 -BloomingSky Rest-",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_5ee38798-2943-491a-aa30-a145bbe44b42",
-                    "Name": "ハジマリと福音の先へ -After the Origins and the Bell-",
-                    "Description": "入口のカギで壁を壊してからが本番。"
-                },
-                {
-                    "ID": "wrld_269fa2ee-33e6-4505-b44f-fd1b3e4b6262",
-                    "Name": "小雨のあの日-A drizzly day",
-                    "Description": "雨が降る、どこかの町のワールド。夕日と雨のコントラストが◎"
-                },
-                {
-                    "ID": "wrld_af4e67ae-bb39-48c1-acc9-ab98cd59c5d5",
-                    "Name": "神隠シンドローム -SpiritedAway Syndrome-",
-                    "Description": "表の世界と、どこかをインタラクトすると行くことのできる裏の世界の2つが存在するワールド。表裏の表現も素晴らしい。"
-                },
-                {
-                    "ID": "wrld_b5c47aab-a6ff-4240-8033-2995edb00eb6",
-                    "Name": "Aquarius",
-                    "Description": "水族館のチルワールド。様々な海洋生物を見ることができる。"
-                },
-                {
-                    "ID": "wrld_020d2f7f-d586-4ded-8a70-d5245201a638",
-                    "Name": "陽射しの廃駅-Abandoned station in the sunshine",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_c4d572ac-7f36-4ff7-b0e0-0dc8efdab88d",
-                    "Name": "独夜ノクターン -Nocturne in Lonely Night-",
-                    "Description": "夜 美しさ"
-                },
-                {
-                    "ID": "wrld_f7a383bc-c925-4696-85c2-2996c0a40112",
-                    "Name": "Deep Blue",
-                    "Description": "クリエイター：Fins"
-                },
-                {
-                    "ID": "wrld_057ed75d-4915-455b-aee1-39a4f4e76ca3",
-                    "Name": "Deep Blue Night",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_d048292b-42ad-4204-9372-0103d9a46f71",
-                    "Name": "Gion Street - 祇園通り日本",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_854020c3-426a-4e55-b36a-65ecbbf5d491",
-                    "Name": "夕焼けの帰り道ーOn my way home in the Sunset",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_689e7533-f2e4-4f7f-92ca-868a96a357a2",
-                    "Name": "Charlotte's Raindrop Island 天気雨と夕焼けの港町",
-                    "Description": "エモ移動"
-                },
-
-
-
-                {
-                    "ID": "wrld_",
-                    "Name": "",
-                    "Description": ""
-                },
-
-
-
-                {
-                    "ID": "wrld_317d7b78-5bf7-4c53-ad06-65d1608cb1b1",
-                    "Name": "Sky Lanterns",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_a1eba062-7e62-48e1-bad8-74152bdc96e6",
-                    "Name": "somewhewe",
-                    "Description": "山 風景"
-                },
-                {
-                    "ID": "wrld_47092b72-2a99-4a2d-8b0f-6d99a888f2af",
-                    "Name": "Twilight Reflection",
-                    "Description": "夜景 桜"
-                },
-                {
-                    "ID": "wrld_b473f3f1-1f8a-414d-874a-9e9f121e74b8",
-                    "Name": "Celadon Conservatory",
-                    "Description": "植物園"
-                },
-                {
-                    "ID": "wrld_45d80265-bdf4-402b-bea2-59b848df6873",
-                    "Name": "星夢島 -Star Reverie Island-",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_1f9fc7c3-e258-4e99-bc9f-b4163a963590",
-                    "Name": "初霜の庭 -Japan Autumn Garden-",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_de6c7810-d2e5-43df-8d01-0064038791dd",
-                    "Name": "Yayoi Starfield",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_71c478ff-01f9-460c-9c58-01cc89dba124",
-                    "Name": "春京˸ 旧八重駅 -輝桜神社-",
-                    "Description": "春 桜 鉄道"
-                },
-                {
-                    "ID": "wrld_46b8f4e7-0f1a-4ac3-94ed-b8665a18b880",
-                    "Name": "天泣の社・神域 - sun shower shrine ˸ sanctuary -",
-                    "Description": "桜"
-                },
-                {
-                    "ID": "wrld_d8b48301-f025-48c9-9105-a2c84e08faa0",
-                    "Name": "Charlotte's Sunflower Island~ひまわり咲く癒しの港町",
-                    "Description": "海 港 街中"
-                },
-                {
-                    "ID": "wrld_c02e7709-b0f2-4957-a97d-10b1fd4ac278",
-                    "Name": "星巡りの湖 - Lake of Circling star -",
-                    "Description": "夜 星空 ピアノ"
-                },
-                {
-                    "ID": "wrld_d462b114-27a4-42a1-8fb4-5d868f307b3b",
-                    "Name": "花ノ島 - Island of Flora -",
-                    "Description": "昼 自然 森"
-                },
-                {
-                    "ID": "wrld_3b1ded52-a41d-40c3-8942-d429d802e4a5",
-                    "Name": "天気雨のワルツ-Sun shower's Waltz",
-                    "Description": "雨 街中"
-                },
-                {
-                    "ID": "wrld_e7737082-7da7-40cf-b49a-800401a135a5",
-                    "Name": "青色エモーショナルキャプチャー ~blue emotional capture~",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_44bb00cf-e6c0-496f-b75d-acd7728bd762",
-                    "Name": "日本の夏",
-                    "Description": "夏 夜"
-                },
-                {
-                    "ID": "wrld_86050202-0db3-4928-9891-98ce56124705",
-                    "Name": "星降りの湖 - Lake of falling star -",
-                    "Description": "夜 夜景"
-                },
-                {
-                    "ID": "wrld_1002795b-8657-4ac3-bdb0-7515bed967ce",
-                    "Name": "青天霹靂",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_f0af0c41-6ed8-4e79-92a8-1ddd382e78bb",
-                    "Name": "青天霹靂（夕）",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_a76aa4f6-6ec0-449a-a1ae-89beecb48463",
-                    "Name": "山祇 -Yamatsumi-",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_4c9bdba1-fc50-47f1-99c0-30e453fe7153",
-                    "Name": "終末駅 - post apocalyptic station -",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_1d6adcaa-f469-4e46-856f-547eb46a799a",
-                    "Name": "Pillars",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_80aa6dac-48b6-46b3-8a45-9870901259a4",
-                    "Name": "Ship in Clouds",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_8e2a85f0-6d3d-4d24-90aa-44e9b6a81f2e",
-                    "Name": "nagisa no machi",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_72244679-733b-4695-bf03-ea936f54a71a",
-                    "Name": "約束の花園",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_ea8c1309-48ba-4b8b-a9c2-42dacaf33c75",
-                    "Name": "炎天、途中下車 -One day in the summer-",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_b44964d5-9f41-4719-bb0d-685f438d9d99",
-                    "Name": "オモイデに沈む前に -Before It Sinks in Memories-",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_cd5dcd24-df86-419a-80e4-b36f4785908a",
-                    "Name": "Spring of dreams ",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_028473ac-334a-4867-a9cf-a9e1f93e05e7",
-                    "Name": "Charlotte's Daydream Island",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_a309ebed-e7c2-4fc4-bafd-bf39dea0e8b3",
-                    "Name": "砂と星の海 - Voyage of Imagination",
-                    "Description": ""
-                },
-                {
-                    "ID": "",
-                    "Name": "未設定",
-                    "Description": ""
-                },
-                {
-                    "ID": "",
-                    "Name": "未設定",
-                    "Description": ""
-                }
-            ]
-        },
-
-
-
-        {
-            "Category": "写真撮影",
+            "Category": "エモ・写真撮影",
             "Worlds": [
                 {
                     "ID": "wrld_2e6867b9-0c78-43ec-8bd5-77aacd751ecd",
@@ -907,9 +653,94 @@
                     "Description": ""
                 },
                 {
-                    "ID": "",
-                    "Name": "",
+                    "ID": "wrld_ee5541a9-0788-43e1-a86d-bad30e218246",
+                    "Name": "開けない夜ーAn unilluminated night",
+                    "Description": "夜の屋上で夜空が見れるワールド。パーティクルと音楽の組み合わせがとても綺麗で◎"
+                },
+                {
+                    "ID": "wrld_48f70688-a7a8-4252-b695-e891f845a129",
+                    "Name": "時の残響－Echoes of Time",
+                    "Description": "どこかの廃墟のワールド。水や揺れるカーテンの表現がとても◎"
+                },
+                {
+                    "ID": "wrld_a7464c28-ebaf-4463-994e-4e13f6144a0f",
+                    "Name": "消えたあなたと‚ 止まっている春が-Spring and you",
+                    "Description": "部屋の中央にキャンバスだけが残されたワールド。カーテンからの風の表現がとても綺麗。"
+                },
+                {
+                    "ID": "wrld_302d5b48-810d-4d65-bb08-8dfd629cba56",
+                    "Name": "夏宙の休息地 -Summer Starrysky Rest-",
                     "Description": ""
+                },
+                {
+                    "ID": "wrld_84f03063-6013-43f6-a827-995a512a617e",
+                    "Name": "春空の休息地 -BloomingSky Rest-",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_5ee38798-2943-491a-aa30-a145bbe44b42",
+                    "Name": "ハジマリと福音の先へ -After the Origins and the Bell-",
+                    "Description": "入口のカギで壁を壊してからが本番。"
+                },
+                {
+                    "ID": "wrld_269fa2ee-33e6-4505-b44f-fd1b3e4b6262",
+                    "Name": "小雨のあの日-A drizzly day",
+                    "Description": "雨が降る、どこかの町のワールド。夕日と雨のコントラストが◎"
+                },
+                {
+                    "ID": "wrld_af4e67ae-bb39-48c1-acc9-ab98cd59c5d5",
+                    "Name": "神隠シンドローム -SpiritedAway Syndrome-",
+                    "Description": "表の世界と、どこかをインタラクトすると行くことのできる裏の世界の2つが存在するワールド。表裏の表現も素晴らしい。"
+                },
+                {
+                    "ID": "wrld_b5c47aab-a6ff-4240-8033-2995edb00eb6",
+                    "Name": "Aquarius",
+                    "Description": "水族館のチルワールド。様々な海洋生物を見ることができる。"
+                },
+                {
+                    "ID": "wrld_020d2f7f-d586-4ded-8a70-d5245201a638",
+                    "Name": "陽射しの廃駅-Abandoned station in the sunshine",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_c4d572ac-7f36-4ff7-b0e0-0dc8efdab88d",
+                    "Name": "独夜ノクターン -Nocturne in Lonely Night-",
+                    "Description": "夜 美しさ"
+                },
+                {
+                    "ID": "wrld_f7a383bc-c925-4696-85c2-2996c0a40112",
+                    "Name": "Deep Blue",
+                    "Description": "クリエイター：Fins"
+                },
+                {
+                    "ID": "wrld_057ed75d-4915-455b-aee1-39a4f4e76ca3",
+                    "Name": "Deep Blue Night",
+                    "Description": "クリエイター：Fins"
+                },
+                {
+                    "ID": "wrld_d048292b-42ad-4204-9372-0103d9a46f71",
+                    "Name": "Gion Street - 祇園通り日本",
+                    "Description": "クリエイター：Fins"
+                },
+                {
+                    "ID": "wrld_854020c3-426a-4e55-b36a-65ecbbf5d491",
+                    "Name": "夕焼けの帰り道ーOn my way home in the Sunset",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_689e7533-f2e4-4f7f-92ca-868a96a357a2",
+                    "Name": "Charlotte's Raindrop Island 天気雨と夕焼けの港町",
+                    "Description": "エモ移動"
+                },
+                {
+                    "ID": "wrld_acc31d70-74b8-4e63-b75d-16f05e16987e",
+                    "Name": "Thus Far",
+                    "Description": "森林 光 自然"
+                },
+                {
+                    "ID": "wrld_8d740b03-93a4-4153-99de-9fd67d86d4ae",
+                    "Name": "Sunset Retreat",
+                    "Description": "夕日 湖 ゲーム チル"
                 },
 
 
@@ -1054,6 +885,151 @@
                     "ID": "wrld_97a73d37-6d57-4989-b9ce-50e8b9e85e88",
                     "Name": "いつかの終末",
                     "Description": "終末世界。海の上の荒廃したビルのワールド"
+                },
+                {
+                    "ID": "wrld_317d7b78-5bf7-4c53-ad06-65d1608cb1b1",
+                    "Name": "Sky Lanterns",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_a1eba062-7e62-48e1-bad8-74152bdc96e6",
+                    "Name": "somewhewe",
+                    "Description": "山 風景"
+                },
+                {
+                    "ID": "wrld_47092b72-2a99-4a2d-8b0f-6d99a888f2af",
+                    "Name": "Twilight Reflection",
+                    "Description": "夜景 桜"
+                },
+                {
+                    "ID": "wrld_b473f3f1-1f8a-414d-874a-9e9f121e74b8",
+                    "Name": "Celadon Conservatory",
+                    "Description": "植物園"
+                },
+                {
+                    "ID": "wrld_45d80265-bdf4-402b-bea2-59b848df6873",
+                    "Name": "星夢島 -Star Reverie Island-",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_1f9fc7c3-e258-4e99-bc9f-b4163a963590",
+                    "Name": "初霜の庭 -Japan Autumn Garden-",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_de6c7810-d2e5-43df-8d01-0064038791dd",
+                    "Name": "Yayoi Starfield",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_71c478ff-01f9-460c-9c58-01cc89dba124",
+                    "Name": "春京˸ 旧八重駅 -輝桜神社-",
+                    "Description": "春 桜 鉄道"
+                },
+                {
+                    "ID": "wrld_46b8f4e7-0f1a-4ac3-94ed-b8665a18b880",
+                    "Name": "天泣の社・神域 - sun shower shrine ˸ sanctuary -",
+                    "Description": "桜"
+                },
+                {
+                    "ID": "wrld_d8b48301-f025-48c9-9105-a2c84e08faa0",
+                    "Name": "Charlotte's Sunflower Island~ひまわり咲く癒しの港町",
+                    "Description": "海 港 街中"
+                },
+                {
+                    "ID": "wrld_c02e7709-b0f2-4957-a97d-10b1fd4ac278",
+                    "Name": "星巡りの湖 - Lake of Circling star -",
+                    "Description": "夜 星空 ピアノ"
+                },
+                {
+                    "ID": "wrld_d462b114-27a4-42a1-8fb4-5d868f307b3b",
+                    "Name": "花ノ島 - Island of Flora -",
+                    "Description": "昼 自然 森"
+                },
+                {
+                    "ID": "wrld_3b1ded52-a41d-40c3-8942-d429d802e4a5",
+                    "Name": "天気雨のワルツ-Sun shower's Waltz",
+                    "Description": "雨 街中"
+                },
+                {
+                    "ID": "wrld_e7737082-7da7-40cf-b49a-800401a135a5",
+                    "Name": "青色エモーショナルキャプチャー ~blue emotional capture~",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_44bb00cf-e6c0-496f-b75d-acd7728bd762",
+                    "Name": "日本の夏",
+                    "Description": "夏 夜"
+                },
+                {
+                    "ID": "wrld_86050202-0db3-4928-9891-98ce56124705",
+                    "Name": "星降りの湖 - Lake of falling star -",
+                    "Description": "夜 夜景"
+                },
+                {
+                    "ID": "wrld_1002795b-8657-4ac3-bdb0-7515bed967ce",
+                    "Name": "青天霹靂",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_f0af0c41-6ed8-4e79-92a8-1ddd382e78bb",
+                    "Name": "青天霹靂（夕）",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_a76aa4f6-6ec0-449a-a1ae-89beecb48463",
+                    "Name": "山祇 -Yamatsumi-",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_4c9bdba1-fc50-47f1-99c0-30e453fe7153",
+                    "Name": "終末駅 - post apocalyptic station -",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_1d6adcaa-f469-4e46-856f-547eb46a799a",
+                    "Name": "Pillars",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_80aa6dac-48b6-46b3-8a45-9870901259a4",
+                    "Name": "Ship in Clouds",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_8e2a85f0-6d3d-4d24-90aa-44e9b6a81f2e",
+                    "Name": "nagisa no machi",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_72244679-733b-4695-bf03-ea936f54a71a",
+                    "Name": "約束の花園",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_ea8c1309-48ba-4b8b-a9c2-42dacaf33c75",
+                    "Name": "炎天、途中下車 -One day in the summer-",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_b44964d5-9f41-4719-bb0d-685f438d9d99",
+                    "Name": "オモイデに沈む前に -Before It Sinks in Memories-",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_cd5dcd24-df86-419a-80e4-b36f4785908a",
+                    "Name": "Spring of dreams ",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_028473ac-334a-4867-a9cf-a9e1f93e05e7",
+                    "Name": "Charlotte's Daydream Island",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_a309ebed-e7c2-4fc4-bafd-bf39dea0e8b3",
+                    "Name": "砂と星の海 - Voyage of Imagination",
+                    "Description": ""
                 },
                 {
                     "ID": "",
@@ -3006,6 +2982,11 @@
                     "ID": "wrld_e52cdc98-3321-4fc1-aa7b-70c6f0de7a6e",
                     "Name": "肌マテリアルを選びながら改変ができるワールド",
                     "Description": ""
+                },
+                {
+                    "ID": "wrld_5fe236dc-a6c7-4a67-8883-0d45ab5575c7",
+                    "Name": "BOOTH 試着室",
+                    "Description": "ワールドで直接衣装を着ることができるワールド"
                 },
                 {
                     "ID": "",
