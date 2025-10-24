@@ -2672,6 +2672,16 @@
                     "Description": ""
                 },
                 {
+                    "ID": "wrld_b2d24c29-1ded-4990-a90d-dd6dcc440300",
+                    "Name": "Japan Shrine［autumn］",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_30716c54-3565-42f7-b7c5-d398ef4faac5",
+                    "Name": "ポピー横丁-Poppy Street-",
+                    "Description": ""
+                },
+                {
                     "ID": "",
                     "Name": "",
                     "Description": ""
@@ -2717,6 +2727,11 @@
                 {
                     "ID": "wrld_266523e8-9161-40da-acd0-6bd82e075833",
                     "Name": "Popcorn Palace",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_f5f8b3dc-6f33-4b34-97f3-83add2fb224d",
+                    "Name": "日本語話者向け集会場「FUJIYAMA」JP",
                     "Description": ""
                 },
                 {
@@ -3289,6 +3304,11 @@
                     "ID": "wrld_4706d28b-9c17-4b2f-936a-e1b032bb9219",
                     "Name": "DAるダるーむ -DAR2 OOM-",
                     "Description": "アセット探し中"
+                },
+                {
+                    "ID": "wrld_61e6569b-0862-4a1c-9251-5c6a698f1c64",
+                    "Name": "Shooting Cafe-Bifröst-",
+                    "Description": ""
                 },
                 {
                     "ID": "",
