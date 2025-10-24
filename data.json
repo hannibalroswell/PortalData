@@ -2668,7 +2668,7 @@
                 },
                 {
                     "ID": "wrld_c82a5c14-97a5-4782-a034-d897d2d943a2",
-                    "Name": "VRC 新宿駅 Shinjuku Station",
+                    "Name": "新宿ライブストリート ⁄ Shinjuku Live Street",
                     "Description": ""
                 },
                 {
@@ -2732,6 +2732,11 @@
                 {
                     "ID": "wrld_f5f8b3dc-6f33-4b34-97f3-83add2fb224d",
                     "Name": "日本語話者向け集会場「FUJIYAMA」JP",
+                    "Description": ""
+                },
+                {
+                    "ID": "wwrld_4ffc3ca7-d173-4597-812d-55c37f288335",
+                    "Name": "初心者歓迎 冒険者ギルド ダルウィニー【JP】",
                     "Description": ""
                 },
                 {
