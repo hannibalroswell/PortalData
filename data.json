@@ -1032,6 +1032,11 @@
                     "Description": ""
                 },
                 {
+                    "ID": "wrld_70e25e5d-5eb4-4798-8d5c-1ed4d18cc110",
+                    "Name": "Cove",
+                    "Description": "夕日　海辺　ヤシの木"
+                },
+                {
                     "ID": "",
                     "Name": "未設定",
                     "Description": ""
@@ -1847,6 +1852,11 @@
                     "ID": "wrld_27e8d086-7862-417e-9f3a-48d41e33b27c",
                     "Name": "運命の路地裏 -A Fortune-Telling World-",
                     "Description": "AIと占いができるワールド"
+                },
+                {
+                    "ID": "wrld_0b564e0d-3781-43c0-9334-41ea9b147fa7",
+                    "Name": "Chrono Hollow",
+                    "Description": "ツルハシで鉱石を掘るワールド。ホラー要素あり。"
                 },
 
 
