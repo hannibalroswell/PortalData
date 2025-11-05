@@ -107,6 +107,16 @@
                     "Name": "Pixel Paradise Arcade",
                     "Description": "ゲームセンター"
                 },
+                {
+                    "ID": "wrld_45801e39-517e-4cca-b915-ae720825d88c",
+                    "Name": "Moonlit Perch -月明かりの泊まり木-",
+                    "Description": "ファンタジー　木の上　夜　月明かり"
+                },
+                {
+                    "ID": "wrld_57d96124-e164-48e5-b571-f1cb50b63971",
+                    "Name": "雨花ヒルズ 東棟 5601号 ⁄ RainFlower Hills - East Wing - ＃5601",
+                    "Description": "なんでもあるチルワ"
+                },
 
                 {
                     "ID": "",
@@ -1037,6 +1047,16 @@
                     "Description": "夕日　海辺　ヤシの木"
                 },
                 {
+                    "ID": "wrld_5017c31a-8259-4c6d-ae47-bd852e07a820",
+                    "Name": "AD＃0731",
+                    "Description": "明るい室内"
+                },
+                {
+                    "ID": "wrld_c8470313-b94b-4e4f-8db6-f4a5adb4cb3e",
+                    "Name": "Outside",
+                    "Description": "列車のホーム"
+                },
+                {
                     "ID": "",
                     "Name": "未設定",
                     "Description": ""
@@ -1523,6 +1543,11 @@
                 {
                     "ID": "wrld_10ffd05e-2023-4fe8-a4b4-70c27b00e489",
                     "Name": "Tokogrammetry Museum",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_9710e8e1-2ffa-4b95-a0d8-2d0e06a93876",
+                    "Name": "3DScan 深夜の横浜散策 帆船「日本丸」",
                     "Description": ""
                 },
                 {
@@ -2075,6 +2100,11 @@
                     "Description": ""
                 },
                 {
+                    "ID": "wrld_b93599cd-cb54-483a-9eea-9290f3aadbbe",
+                    "Name": "JustVRCプリコーナー",
+                    "Description": "プリクラ"
+                },
+                {
                     "ID": "wrld_",
                     "Name": "未設定",
                     "Description": ""
@@ -2175,6 +2205,11 @@
                     "Description": "迫りくるゾンビを倒してマップから脱出するゲーム。"
                 },
                 {
+                    "ID": "wrld_4eee24b7-0570-49a4-b7e7-cf7fee69aeb9",
+                    "Name": "［PvP］ Just 1v1",
+                    "Description": "1対1でFPSができるワールド"
+                },
+                {
                     "ID": "",
                     "Name": "未設定",
                     "Description": ""
@@ -2233,6 +2268,11 @@
                     "ID": "wrld_75e6540d-5b53-4251-9f54-13af2f9d6d26",
                     "Name": "どらいぶ島 - VR Drive Island -",
                     "Description": ""
+                },
+                {
+                    "ID": "wrld_7703a148-7722-48c7-865c-48e6a887d93e",
+                    "Name": "Driveable Steam Train",
+                    "Description": "景色を見ながら電車の運転ができる"
                 },
                 {
                     "ID": "",
@@ -2835,6 +2875,11 @@
                     "Description": ""
                 },
                 {
+                    "ID": "wrld_124b621e-06cb-4a75-9843-62c9c1418209",
+                    "Name": "METAFES 2025 FIRE DAY",
+                    "Description": ""
+                },
+                {
                     "ID": "",
                     "Name": "未設定",
                     "Description": ""
@@ -3051,6 +3096,11 @@
                     "Name": "R＆Coco․ 【試着ワールド - Fitting trial】",
                     "Description": ""
                 },
+                {
+                    "ID": "wrld_00d8920d-041a-4ece-ab39-b18bf24ff56f",
+                    "Name": "デザインコラボミュージアム2025",
+                    "Description": ""
+                },
 
 
                 {
@@ -3088,6 +3138,16 @@
                 {
                     "ID": "wrld_b01426e5-34ce-461b-9c78-0aaddcda561d",
                     "Name": "FLASTORE Avatars",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_def101e2-70bc-47f3-afa0-83098bb89f95",
+                    "Name": "ClothGallery -ENCLO-",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_18988a5b-a459-436a-a1fd-bf36af18b915",
+                    "Name": "Tatuo Virtual Lab ＂alpha＂ Enter the pc9821",
                     "Description": ""
                 },
                 {
