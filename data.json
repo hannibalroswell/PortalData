@@ -540,7 +540,7 @@
 
 
         {
-            "Category": "エモ・写真撮影",
+            "Category": "写真撮影",
             "Worlds": [
                 {
                     "ID": "wrld_2e6867b9-0c78-43ec-8bd5-77aacd751ecd",
@@ -551,16 +551,6 @@
                     "ID": "wrld_b981e35e-597f-4604-a06b-d92188bf89e9",
                     "Name": "Storm Drain",
                     "Description": "地下排水路ワールド"
-                },
-                {
-                    "ID": "wrld_2da2de70-6d8d-4940-b658-642f44ebdacd",
-                    "Name": "oz08c",
-                    "Description": "ワールドクリエイターOzenのワールド。SF感が魅力のオープンワールド"
-                },
-                {
-                    "ID": "wrld_94944b6d-d1be-479c-89d0-b401ea477db3",
-                    "Name": "Freeze",
-                    "Description": "ワールドクリエイターOzenのワールド。SF感が魅力"
                 },
                 {
                     "ID": "wrld_269fa2ee-33e6-4505-b44f-fd1b3e4b6262",
@@ -622,11 +612,7 @@
                     "Name": "Floating Breath",
                     "Description": "チームラボ風"
                 },
-                {
-                    "ID": "wrld_6a747546-1cee-4b60-b5ea-1c3d4d2ab501",
-                    "Name": "8-bit Cyberpunk Junction",
-                    "Description": "ピクセルで作られた町のワールド　カテゴリ"
-                },
+
                 {
                     "ID": "wrld_7227757c-bc35-44e1-a355-809240096999",
                     "Name": "Soviet Train - Light Volumes 2․0",
@@ -1068,6 +1054,52 @@
                 }
             ]
         },
+
+
+
+        {
+            "Category": "写真撮影(SF)",
+            "Worlds": [
+                {
+                    "ID": "wrld_2da2de70-6d8d-4940-b658-642f44ebdacd",
+                    "Name": "oz08c",
+                    "Description": "ワールドクリエイターOzenのワールド。SF感が魅力のオープンワールド"
+                },
+                {
+                    "ID": "wrld_94944b6d-d1be-479c-89d0-b401ea477db3",
+                    "Name": "Freeze",
+                    "Description": "ワールドクリエイターOzenのワールド。SF感が魅力"
+                },
+                {
+                    "ID": "wrld_6a747546-1cee-4b60-b5ea-1c3d4d2ab501",
+                    "Name": "8-bit Cyberpunk Junction",
+                    "Description": "ピクセルで作られた町のワールド　カテゴリ"
+                },
+
+
+
+
+
+
+
+
+
+
+
+
+                {
+                    "ID": "",
+                    "Name": "未設定",
+                    "Description": ""
+                },
+                {
+                    "ID": "",
+                    "Name": "未設定",
+                    "Description": ""
+                }
+            ]
+        },
+
 
 
 
@@ -1766,7 +1798,7 @@
 
 
         {
-            "Category": "ゲームワールド 未整理",
+            "Category": "ゲームワールド",
             "Worlds": [
                 {
                     "ID": "wrld_4e8f3e44-dca9-4ae7-9580-954bb4b2cbc4",
@@ -1779,24 +1811,14 @@
                     "Description": "ダークソウルオマージュワールド。本家同様高難易度。"
                 },
                 {
+                    "ID": "wrld_25e938a8-3b23-4d6b-a9c2-10e28cb4970b",
+                    "Name": "Bullet Time Agent",
+                    "Description": "自分だけスローモーションになり敵を倒していくワールド。"
+                },
+                {
                     "ID": "wrld_ba265839-272c-40c9-bed5-247b7ec0bb52",
                     "Name": "UDON-SABER",
                     "Description": "ビート〇イバーのパクりワールド。更新頻度高。軽量アバター推奨。"
-                },
-                {
-                    "ID": "wrld_fba7ee36-9fb8-4546-be26-5105442bd029",
-                    "Name": "USEMONO -Seekers Inc․-",
-                    "Description": "一軒家で失くしたものを探すワールド。難易度が選べ、制限時間5分で1プレイ。"
-                },
-                {
-                    "ID": "wrld_9d74f118-b1ae-4b2d-956e-e1ea32ca44e4",
-                    "Name": "ユーロアの隠れ家 Euroa's Hideout",
-                    "Description": "様々なゲームが遊べるゲームワールド"
-                },
-                {
-                    "ID": "wrld_40f96cef-3477-46b5-955a-ae03bc46d09b",
-                    "Name": "Prize Lounge",
-                    "Description": "リアルな挙動のクレーンゲームが遊べるワールド。"
                 },
                 {
                     "ID": "wrld_a0423f4f-d9a8-42d9-bfcf-323eca2ec8a3",
@@ -1809,44 +1831,14 @@
                     "Description": "弾幕系"
                 },
                 {
-                    "ID": "wrld_8e909dbd-c6a7-4c64-af16-818161a0eceb",
-                    "Name": "VRbomber",
-                    "Description": "ボン〇ーマンライクなゲームワールド。"
-                },
-                {
                     "ID": "wrld_ba9057f1-2a10-440d-aa35-79239cf6f71f",
                     "Name": "DesertBandit",
                     "Description": "実質アーマードコア。"
                 },
                 {
-                    "ID": "wrld_e823b598-96cd-4b51-a7af-98cb8ca2f46f",
-                    "Name": "Seasonal Local Train 2nd",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_0ae33725-8c02-453e-966c-a6457ba8d003",
-                    "Name": "元彼の家 Ex's house",
-                    "Description": "元カレの家を壊そう！"
-                },
-                {
-                    "ID": "wrld_cacfe6b1-b2c1-40d0-8566-8edd4d96e9fd",
-                    "Name": "Udon Bird Sanctuary",
-                    "Description": "鳥かわいい"
-                },
-                {
                     "ID": "wrld_e070034f-da8c-4b00-b0f7-1fc66cf85d02",
                     "Name": "Magnetize",
                     "Description": ""
-                },
-                {
-                    "ID": "wrld_a0423f4f-d9a8-42d9-bfcf-323eca2ec8a3",
-                    "Name": "Magical Cursed Land",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_358c8602-a6fd-430c-9d56-b9c1e90971aa",
-                    "Name": "リアルタイム農業ワールド",
-                    "Description": "ニンジンを植えてひたすら成長を待つワールド。"
                 },
                 {
                     "ID": "wrld_84318cd3-a946-45f5-b4dd-3a28cb7842a1",
@@ -1864,35 +1856,16 @@
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_679d9eee-f764-4849-810c-420a55199a4c",
-                    "Name": "美少女ゲームツクール2020 HD版 ADV-Maker 2020 HD Edition",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_95f6ad59-299d-4f52-a358-4c4f01b4906a",
-                    "Name": "Just ミーム",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_27e8d086-7862-417e-9f3a-48d41e33b27c",
-                    "Name": "運命の路地裏 -A Fortune-Telling World-",
-                    "Description": "AIと占いができるワールド"
-                },
-                {
                     "ID": "wrld_0b564e0d-3781-43c0-9334-41ea9b147fa7",
                     "Name": "Chrono Hollow",
                     "Description": "ツルハシで鉱石を掘るワールド。ホラー要素あり。"
                 },
-
-
 
                 {
                     "ID": "wrld_",
                     "Name": "",
                     "Description": ""
                 },
-
-
 
                 {
                     "ID": "wrld_02c8ac42-7b6c-4dd1-8a3d-1d12d20cd148",
@@ -1913,11 +1886,6 @@
                     "ID": "wrld_a61cdabe-1218-4287-9ffc-2a4d1414e5bd",
                     "Name": "Terrors of Nowhere",
                     "Description": "超人気鬼ごっこワールド。"
-                },
-                {
-                    "ID": "wrld_00352602-587d-4bde-a4b4-8b6227e7cc53",
-                    "Name": "Pressure Wash Simulator",
-                    "Description": "高圧洗浄機で自動車を綺麗にお掃除できるワールド。"
                 },
                 {
                     "ID": "wrld_1c421ebe-2c92-479f-8242-26d3aceb13ba",
@@ -1945,24 +1913,9 @@
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_2de8eba1-09a7-441f-a544-58bf783f5195",
-                    "Name": "串カツ神経衰弱",
-                    "Description": "串カツの絵で神経衰弱ができる。同じ串カツでも絵柄が違う(?)楽しめるクソゲー。"
-                },
-                {
                     "ID": "wrld_52330ddb-312f-4813-9670-a468f0fe4062",
                     "Name": "Wii Sports",
                     "Description": "Wii Sp〇rtsじゃん！"
-                },
-                {
-                    "ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
-                    "Name": "Test Pilots",
-                    "Description": ""
-                },
-                {
-                    "ID": "wrld_6d58b3d8-8d02-490b-94ad-732205e3b0c0",
-                    "Name": "FLAME HORIZON《フレーム・ホライゾン 人型攻撃機》",
-                    "Description": ""
                 },
                 {
                     "ID": "wrld_c60988b7-20fb-4fc1-81fc-7431fbf27ae4",
@@ -1975,11 +1928,6 @@
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_38c1cdc9-10e7-4b49-adee-a63a9ea9aaf2",
-                    "Name": "Nom Nom Hole",
-                    "Description": "穴を大きくしてモノを落としていくワールド。"
-                },
-                {
                     "ID": "wrld_09e6752e-f412-4794-8c07-92d65af0f759",
                     "Name": "Victory of Round -v2․00-",
                     "Description": ""
@@ -1989,16 +1937,7 @@
                     "Name": "Valkyrie Arena",
                     "Description": ""
                 },
-                {
-                    "ID": "wrld_edfe25fd-c303-4591-b96f-5c7205ad66a2",
-                    "Name": "一致するまで寝れまテン",
-                    "Description": "お題を受け取って全員で答えを書き、一致するまで粘るワールド。"
-                },
-                {
-                    "ID": "wrld_a1a1bae9-0003-429c-a5eb-ded571193b82",
-                    "Name": "Break the car",
-                    "Description": "車を壊せるワールド。ストレス発散向け。"
-                },
+
                 {
                     "ID": "wrld_ea130b45-a7bb-48d9-be16-3cced05cc794",
                     "Name": "遠鯨埠頭 onkei wharf",
@@ -2070,11 +2009,6 @@
                     "Description": ""
                 },
                 {
-                    "ID": "wrld_d0566e16-20a8-4063-8b1b-e181371f751d",
-                    "Name": "TacticalShooter Infinitas",
-                    "Description": ""
-                },
-                {
                     "ID": "wrld_f4e920ea-0bc3-402b-9d80-02691eeecbfb",
                     "Name": "THE Swimming Pool",
                     "Description": ""
@@ -2105,7 +2039,12 @@
                     "Description": "プリクラ"
                 },
                 {
-                    "ID": "wrld_",
+                    "ID": "wrld_0bbac6e6-5c80-40c2-80dd-273e960ea814",
+                    "Name": "（WIP） Memena's Lord Arena",
+                    "Description": ""
+                },
+                {
+                    "ID": "",
                     "Name": "未設定",
                     "Description": ""
                 },
@@ -2154,16 +2093,17 @@
                     "Description": "銃の挙動がリアルなゾンビを倒すワールド。"
                 },
 
-
-
                 {
                     "ID": "",
                     "Name": "",
                     "Description": ""
                 },
 
-
-
+                {
+                    "ID": "wrld_d0566e16-20a8-4063-8b1b-e181371f751d",
+                    "Name": "TacticalShooter Infinitas",
+                    "Description": ""
+                },
                 {
                     "ID": "wrld_933ea0c2-9ea4-4e77-a093-d75b51fc4b66",
                     "Name": "TacticalShootingAera",
@@ -2232,6 +2172,11 @@
                     "Name": "残暑秋晴ドライブロード",
                     "Description": ""
                 },
+                {
+                    "ID": "wrld_2ad5bb30-adf7-4de1-ba50-ae9b6b4689fe",
+                    "Name": "Jetski Rush",
+                    "Description": "水上バイクでレースができるワールド。"
+                },
 
                 {
                     "ID": "",
@@ -2255,11 +2200,6 @@
                     "Description": "昼の東京をドライブすることができる。"
                 },
                 {
-                    "ID": "wrld_2ad5bb30-adf7-4de1-ba50-ae9b6b4689fe",
-                    "Name": "Jetski Rush",
-                    "Description": "水上バイクでレースができるワールド。"
-                },
-                {
                     "ID": "wrld_",
                     "Name": "Need For Speed Carbon˸ Lookout Point",
                     "Description": "wrld_cec029cb-8dc6-4f3b-b269-dd914ce98c24"
@@ -2273,6 +2213,121 @@
                     "ID": "wrld_7703a148-7722-48c7-865c-48e6a887d93e",
                     "Name": "Driveable Steam Train",
                     "Description": "景色を見ながら電車の運転ができる"
+                },
+                {
+                    "ID": "wrld_e823b598-96cd-4b51-a7af-98cb8ca2f46f",
+                    "Name": "Seasonal Local Train 2nd",
+                    "Description": "電車の運転ができるワールド"
+                },
+                {
+                    "ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
+                    "Name": "Test Pilots",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_6d58b3d8-8d02-490b-94ad-732205e3b0c0",
+                    "Name": "FLAME HORIZON《フレーム・ホライゾン 人型攻撃機》",
+                    "Description": ""
+                },
+                {
+                    "ID": "",
+                    "Name": "未設定",
+                    "Description": ""
+                },
+                {
+                    "ID": "",
+                    "Name": "未設定",
+                    "Description": ""
+                }
+            ]
+        },
+
+
+
+        {
+            "Category": "ゲームワールド(シンプル系・テーブルゲーム)",
+            "Worlds": [
+                {
+                    "ID": "wrld_9d74f118-b1ae-4b2d-956e-e1ea32ca44e4",
+                    "Name": "ユーロアの隠れ家 Euroa's Hideout",
+                    "Description": "様々なゲームが遊べるゲームワールド"
+                },
+                {
+                    "ID": "wrld_0ae33725-8c02-453e-966c-a6457ba8d003",
+                    "Name": "元彼の家 Ex's house",
+                    "Description": "元カレの家を壊そう！"
+                },
+                {
+                    "ID": "wrld_cacfe6b1-b2c1-40d0-8566-8edd4d96e9fd",
+                    "Name": "Udon Bird Sanctuary",
+                    "Description": "鳥がかわいい"
+                },
+                {
+                    "ID": "wrld_fba7ee36-9fb8-4546-be26-5105442bd029",
+                    "Name": "USEMONO -Seekers Inc․-",
+                    "Description": "一軒家で失くしたものを探すワールド。難易度が選べ、制限時間5分で1プレイ。"
+                },
+                {
+                    "ID": "wrld_40f96cef-3477-46b5-955a-ae03bc46d09b",
+                    "Name": "Prize Lounge",
+                    "Description": "リアルな挙動のクレーンゲームが遊べるワールド。"
+                },
+                {
+                    "ID": "wrld_8e909dbd-c6a7-4c64-af16-818161a0eceb",
+                    "Name": "VRbomber",
+                    "Description": "ボン〇ーマンライクなゲームワールド。"
+                },
+                {
+                    "ID": "wrld_679d9eee-f764-4849-810c-420a55199a4c",
+                    "Name": "美少女ゲームツクール2020 HD版 ADV-Maker 2020 HD Edition",
+                    "Description": "自分のアバターでギャルゲ風画面が作成できるワールド"
+                },
+                {
+                    "ID": "wrld_95f6ad59-299d-4f52-a358-4c4f01b4906a",
+                    "Name": "Just ミーム",
+                    "Description": "有名ミームの再現ができるワールド"
+                },
+                {
+                    "ID": "wrld_27e8d086-7862-417e-9f3a-48d41e33b27c",
+                    "Name": "運命の路地裏 -A Fortune-Telling World-",
+                    "Description": "AIと占いができるワールド"
+                },
+
+                {
+                    "ID": "",
+                    "Name": "",
+                    "Description": ""
+                },
+
+                {
+                    "ID": "wrld_358c8602-a6fd-430c-9d56-b9c1e90971aa",
+                    "Name": "リアルタイム農業ワールド",
+                    "Description": "ニンジンを植えてひたすら成長を待つワールド。"
+                },
+                {
+                    "ID": "wrld_00352602-587d-4bde-a4b4-8b6227e7cc53",
+                    "Name": "Pressure Wash Simulator",
+                    "Description": "高圧洗浄機で自動車を綺麗にお掃除できるワールド。"
+                },
+                {
+                    "ID": "wrld_2de8eba1-09a7-441f-a544-58bf783f5195",
+                    "Name": "串カツ神経衰弱",
+                    "Description": "串カツの絵で神経衰弱ができる。同じ串カツでも絵柄が違う(?)楽しめるクソゲー。"
+                },
+                {
+                    "ID": "wrld_38c1cdc9-10e7-4b49-adee-a63a9ea9aaf2",
+                    "Name": "Nom Nom Hole",
+                    "Description": "穴を大きくしてモノを落としていくワールド。"
+                },
+                {
+                    "ID": "wrld_edfe25fd-c303-4591-b96f-5c7205ad66a2",
+                    "Name": "一致するまで寝れまテン",
+                    "Description": "お題を受け取って全員で答えを書き、一致するまで粘るワールド。"
+                },
+                {
+                    "ID": "wrld_a1a1bae9-0003-429c-a5eb-ded571193b82",
+                    "Name": "Break the car",
+                    "Description": "車を壊せるワールド。ストレス発散向け。"
                 },
                 {
                     "ID": "",
