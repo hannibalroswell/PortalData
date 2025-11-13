@@ -275,6 +275,11 @@
                     "Description": ""
                 },
                 {
+                    "ID": "wrld_c03f8195-3c64-46d8-b5ae-242f214c9404",
+                    "Name": "MinaSoco ~水底~",
+                    "Description": ""
+                },
+                {
                     "ID": "",
                     "Name": "未設定",
                     "Description": ""
@@ -367,6 +372,11 @@
                     "ID": "wrld_f2a141e2-c7a7-462d-b2ba-321d21b0d261",
                     "Name": "Kazahana Peak 雪の嵐",
                     "Description": "雪"
+                },
+                {
+                    "ID": "wrld_2b5c4a23-e338-4be4-af20-f2ce7f9d2817",
+                    "Name": "紅焔の演舞台（Public版）",
+                    "Description": ""
                 },
                 {
                     "ID": "",
@@ -740,6 +750,11 @@
                     "Description": "列車のホーム"
                 },
                 {
+                    "ID": "wrld_955dca77-cfd2-4ce0-9d0b-bb2af99aa87c",
+                    "Name": "最後の冬-The last winter",
+                    "Description": ""
+                },
+                {
                     "ID": "",
                     "Name": "未設定",
                     "Description": ""
@@ -825,6 +840,11 @@
                     "Description": "SF風　巨大な廊下"
                 },
                 {
+                    "ID": "wrld_ac45f42d-fe87-4a7c-8db5-b61c209837ad",
+                    "Name": "Pacifica City Center",
+                    "Description": ""
+                },
+                {
                     "ID": "wrld_9a4568e3-c8e2-4903-a091-f7b4153be05f",
                     "Name": "fluorescent",
                     "Description": "左右に様々な色の壁があるワールド"
@@ -859,7 +879,11 @@
                     "Name": "Pillars",
                     "Description": "廃墟　建物　崩壊"
                 },
-
+                {
+                    "ID": "wrld_ea36e182-ce42-4e2a-ba9f-69418fd29c8d",
+                    "Name": "Yayoi lost city",
+                    "Description": ""
+                },
                 {
                     "ID": "",
                     "Name": "未設定",
@@ -976,6 +1000,11 @@
                     "ID": "wrld_acc31d70-74b8-4e63-b75d-16f05e16987e",
                     "Name": "Thus Far",
                     "Description": "森林 光 自然"
+                },
+                {
+                    "ID": "wrld_e312decb-70f1-43f3-87bb-d38e5ed01d5e",
+                    "Name": "秋灯：Autumn Lantern",
+                    "Description": "夕日　光　反射　秋"
                 },
 
                 {
