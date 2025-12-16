@@ -637,6 +637,21 @@
                     "Name": "Charlotte's Raindrop Island 天気雨と夕焼けの港町",
                     "Description": "エモ移動"
                 },
+                {
+                    "ID": "wrld_88ee35e7-78e5-4a44-8e9e-72110750c72e",
+                    "Name": "片水面 ⁄ Kata-Minamo",
+                    "Description": "透明感あふれる水鏡と青い光が美しい静寂の空間。水面の表現にこだわった、撮影に最適な和風ワールド。"
+                },
+                {
+                    "ID": "wrld_386f7631-3e9a-4fa3-9c11-b64e11c79cf3",
+                    "Name": "Desolate Tranquility",
+                    "Description": "。"
+                },
+                {
+                    "ID": "wrld_226f5714-74cb-4569-a302-6069a80cf678",
+                    "Name": "Endless hug ⁄ 永遠の抱擁",
+                    "Description": "。"
+                },
 
                 {
                     "ID": "",
@@ -644,6 +659,21 @@
                     "Description": ""
                 },
 
+                {
+                    "ID": "wrld_8f973ca3-9315-4f7d-84cc-9303f394797b",
+                    "Name": "「 ⁄ 」",
+                    "Description": "透き通るような青と白の世界観。摩訶不思議な標識や桜の木など、SFちっくな要素が魅力の撮影向けワールド"
+                },
+                {
+                    "ID": "wrld_93863398-71e0-4fab-97e9-608156084f4a",
+                    "Name": "聖雪オラトリウム -Oratorium in Holy Snow-",
+                    "Description": "煌びやかなクリスマスの夜景ワールド。写真撮影やハンドベルギミックが楽しめる"
+                },
+                {
+                    "ID": "wrld_4d7a60d8-e75a-4f25-92c3-0feaabebe0dc",
+                    "Name": "Hikari˸Christmas lightUp",
+                    "Description": "キラキラのイルミネーション！写真を撮って楽しめるクリスマス仕様の美しい夜景ワールド"
+                },
                 {
                     "ID": "wrld_0664fc7a-29b4-4334-b7ef-559be5fcb7a0",
                     "Name": "大空さんぽ道 -Parasol Promenade-",
@@ -965,6 +995,11 @@
                     "Description": "夏 夜"
                 },
                 {
+                    "ID": "wrld_351f35a8-71dd-48cd-98c2-ebd22e67f7f2",
+                    "Name": "YoridoriResidenceArea 寄鳥住宅街",
+                    "Description": "日本の住宅街"
+                },
+                {
                     "ID": "",
                     "Name": "未設定",
                     "Description": ""
@@ -1006,6 +1041,21 @@
                     "Name": "秋灯：Autumn Lantern",
                     "Description": "夕日　光　反射　秋"
                 },
+                {
+                    "ID": "wrld_2d51644c-179e-42ab-83d3-8882752296c6",
+                    "Name": "EVERYTHING",
+                    "Description": "夕日　ひまわり"
+                },
+                {
+                    "ID": "wrld_5a06702e-0a9c-46cd-b5db-143337d50f02",
+                    "Name": "紫陽花岬 -Cape Hydrangea-",
+                    "Description": "昼　海　アジサイ"
+                },
+                {
+                    "ID": "wrld_164a01e3-fd37-489b-8422-863c25dc8271",
+                    "Name": "homeward",
+                    "Description": "夕日が照らす湖のワールド"
+                },
 
                 {
                     "ID": "",
@@ -1034,14 +1084,14 @@
                     "Description": "自然　夏祭り"
                 },
                 {
+                    "ID": "wrld_a8f6bd40-c5fb-4dd2-a928-8dd6a6256c38",
+                    "Name": "Echoes of the Front",
+                    "Description": "自然　光　戦争　森　戦車"
+                },
+                {
                     "ID": "wrld_028473ac-334a-4867-a9cf-a9e1f93e05e7",
                     "Name": "Charlotte's Daydream Island",
                     "Description": "自然　光　協会　花"
-                },
-                {
-                    "ID": "wrld_2d51644c-179e-42ab-83d3-8882752296c6",
-                    "Name": "EVERYTHING",
-                    "Description": "夕日　花"
                 },
                 {
                     "ID": "wrld_cd5dcd24-df86-419a-80e4-b36f4785908a",
@@ -1131,6 +1181,11 @@
                     "Name": "Waves",
                     "Description": "海の上の崩れた道路のワールド。リアルな反射あり"
                 },
+                {
+                    "ID": "wrld_c99740c1-0823-420d-91ce-3e8beaae741c",
+                    "Name": "Canyon․․․ ｜ REWORK",
+                    "Description": "壮大な峡谷と焚火。静かに話せるシンプルな空間"
+                },
 
                 {
                     "ID": "",
@@ -1178,6 +1233,11 @@
                     "ID": "wrld_70e25e5d-5eb4-4798-8d5c-1ed4d18cc110",
                     "Name": "Cove",
                     "Description": "夕日　海辺　ヤシの木"
+                },
+                {
+                    "ID": "wrld_9c7e9532-a223-4fb9-b85a-c79051669872",
+                    "Name": "11日（日）5時40分",
+                    "Description": ""
                 },
                 {
                     "ID": "",
@@ -1467,6 +1527,11 @@
                     "Name": "バーチャルサイゼリヤ（非公式）",
                     "Description": "サイゼリヤの再現ワールド。店内再現度が高い。"
                 },
+                {
+                    "ID": "wrld_2a247e1d-34fd-4d3c-9113-044fef622c79",
+                    "Name": "八戸公園こどもの国-クリスマスイルミネーション",
+                    "Description": ""
+                },
 
                 {
                     "ID": "",
@@ -1707,6 +1772,16 @@
                     "Name": "ぼくなつ２再現ワールド",
                     "Description": ""
                 },
+                {
+                    "ID": "wrld_6f7515b0-1af5-4b5a-a32a-183026faaf70",
+                    "Name": "New Dawn‚ A Future Unfolding",
+                    "Description": "ギルティギア"
+                },
+                {
+                    "ID": "wrld_0c1aaf36-f67a-4ee3-b6fb-ec52baf6679e",
+                    "Name": "交易都市アステルリーズ",
+                    "Description": "ブループロトコル"
+                },
 
 
                 {
@@ -1782,6 +1857,11 @@
                     "Description": ""
                 },
                 {
+                    "ID": "wrld_fda389f9-e977-4a7f-b616-aee8a23915ca",
+                    "Name": "Dark Souls - Anor Londo",
+                    "Description": ""
+                },
+                {
                     "ID": "",
                     "Name": "未設定",
                     "Description": ""
@@ -1834,6 +1914,11 @@
                     "Name": "ASTEROID FIELD․․․",
                     "Description": "未知の星系探索で、消息を絶ったチームの後任としてストーリーが進んでいきます。全編英語。所要時間：1時間。"
                 },
+               {
+                    "ID": "wrld_0aed64fa-b806-4278-aed5-0e34ce3ca2f1",
+                    "Name": "BLUMEA․․․",
+                    "Description": "巨大な恒星の超新星爆発を観測するSF世界。Hexalab Industriesの前哨基地で、静謐かつ壮大な宇宙の奇観を体験できます。"
+                },
                 {
                     "ID": "wrld_73068cca-e0d8-4b91-98f6-f9eb8076cf2f",
                     "Name": "MOBIUS ［JP］",
@@ -1873,6 +1958,11 @@
                     "ID": "wrld_c8d73706-7df8-461f-90ca-da0e07da8ecc",
                     "Name": "Specularium",
                     "Description": ""
+                },
+                {
+                    "ID": "wrld_6642e15f-97b3-40e6-ba62-ee7dad48ded4",
+                    "Name": "G-SHOCK THE RIDE",
+                    "Description": "タフネスウォッチG-SHOCKをテーマにしたアトラクション系ワールド"
                 },
                 {
                     "ID": "",
@@ -2567,6 +2657,16 @@
                     "Name": "The Abandoned City",
                     "Description": ""
                 },
+                {
+                    "ID": "wrld_de619af6-5036-4a9d-93a2-f6937adef7f6",
+                    "Name": "KTNK_HarvestStation",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_46f5492c-b1ab-4fe6-ab42-3449b7b89918",
+                    "Name": "六甲灯夜 -夜景音響-",
+                    "Description": "カテゴリ未定"
+                },
 
 
 
@@ -2756,6 +2856,26 @@
                 {
                     "ID": "wrld_d4d009ed-06ea-4148-b1d1-fea5206c175f",
                     "Name": "vent․",
+                    "Description": ""
+                },
+                {
+                    "ID": "wrld_e5f161ec-3ca6-4b9d-b5a2-030b89d9fb4e",
+                    "Name": "ヨコスカ公園 -YOKOSUKA Bayside Park-",
+                    "Description": "横須賀の海辺を再現したリアルな公園。船や夕焼けが見えるエモい風景が魅力の撮影スポット"
+                },
+                {
+                    "ID": "wrld_6b967a83-77cb-4345-82ea-43c90e71105f",
+                    "Name": "SECTOR45",
+                    "Description": "近未来的なサイバーパンク風の秘密基地や都市空間"
+                },
+                {
+                    "ID": "wrld_43cb3e2f-4fcc-4d9e-968a-e0c848df5acf",
+                    "Name": "BOOTH Unknown World",
+                    "Description": ""
+                },
+                {
+                    "ID": "",
+                    "Name": "未設定",
                     "Description": ""
                 },
                 {
